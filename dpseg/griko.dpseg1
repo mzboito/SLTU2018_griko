@@ -1,3 +1,18 @@
+Using locale: en_US.UTF-8
+18
+Using locale: en_US.UTF-8
+Segmenting ../griko_mboshi_exp/original/allgriko.txt using 1-gram model
+Boundary initialization: ran
+Unigram generator: monkeys
+ alpha0: 3000, p_boundary: 0.2
+Sampling of hyperparameters: OFF
+Phoneme distribution: uniform
+Sampling 20000 iterations
+evaluating a sample
+random seed = 1516004474
+alphabet size = 36
+Raising temperature in 10 increments: (0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1)
+State: 
 ìcha na a forà sot otsomì
 mbìkeapòttu
 ìso se èmb iàt tifin èstra
@@ -328,3 +343,659 @@ kuàimèri nghìzi navoràso me otsomì
 ìcha navoràso t otsomì kài mèri
 ìcha na agor àso o ssomìka mèri
 o me ssèremup e na min fào glicèa ta però emèa mupiacè o necetat ròo
+_nstrings=xxx
+
+
+Segmented lexicon:
++ 76 i
++ 60 a
++ 59 e
++ 58 o
++ 53 t
++ 52 ka
++ 37 èna
++ 32 na
++ 27 tèli
++ 26 en
+- 25 st
++ 24 ankòra
+- 22 ìsonta
++ 21 ce
++ 19 ne
++ 19 ma
++ 18 to
++ 18 ta
++ 18 u
++ 16 se
++ 15 è
++ 14 mài
++ 14 s
+- 14 ospìti
++ 14 me
++ 14 mèna
++ 13 evò
+- 13 ètsi
++ 13 ìcha
+- 12 mmèno
++ 12 sti
+- 12 onta
+- 11 anìch
+- 11 r
+- 11 otsomì
++ 11 mu
++ 10 ste
++ 10 n
++ 10 ìrte
++ 9 ti
++ 9 pàronta
++ 9 ettù
++ 9 tèlo
++ 9 àla
++ 9 ì
++ 9 mèri
++ 8 ts
+- 8 ipàsta
++ 8 èchi
+- 8 marè
++ 8 èn
+- 8 grammèn
+- 8 enè
++ 8 etèli
++ 8 atsùnniti
++ 8 kànni
++ 8 ee
+- 8 sereka
++ 8 si
++ 7 famèna
+- 7 ni
++ 7 èssu
+- 7 narti
+- 7 fabbrik
+- 7 enèchot
++ 7 ìse
+- 7 à
+- 7 olàdro
+- 7 tte
+- 7 ìs
++ 7 mai
+- 7 navoràso
+- 7 studiè
+- 7 enèch
++ 7 on
+- 7 enìche
++ 6 kàmi
++ 6 kalò
+- 6 poddh
+- 6 ìchena
+- 6 eka
++ 6 àrtena
++ 6 àspro
+- 6 ia
++ 6 pào
++ 6 nìtta
+- 6 èss
+- 6 ko
+- 6 aderfòm
+- 6 ìt
+- 6 derf
+- 6 nd
++ 6 marèo
+- 6 mbìkeapòttu
+- 6 anèrti
+- 6 ammèn
++ 6 forà
+- 6 ano
++ 6 m
+- 6 onìkusa
++ 6 stèone
++ 6 ìche
++ 6 stin
++ 6 ton
+- 6 ndìnn
++ 6 èrkome
+- 6 esòz
+- 6 otìcho
+- 6 alàchana
+- 6 ato
+- 6 tt
+- 5 mànamu
+- 5 kanon
+- 5 vàl
+- 5 sì
++ 5 atsè
+- 5 ssi
+- 5 èstra
++ 5 famèno
+- 5 ònta
+- 5 grà
++ 5 mia
++ 5 stèi
+- 5 apet
+- 5 ume
+- 5 ìmmu
+- 5 tinAnna
++ 5 tàlassa
++ 5 milìsi
+- 5 iMarìa
+- 5 pòrkete
+- 5 kuàimèri
+- 5 tsi
++ 5 tse
+- 5 ìchepolem
++ 5 mòtte
+- 5 ovrài
++ 5 pulò
+- 5 pulizzè
+- 5 eplònni
++ 5 jatì
+- 5 inìcha
++ 5 aglisìa
++ 5 ò
+- 5 em
+- 5 angràmma
++ 5 plèo
+- 5 oGiovànn
+- 5 votimmèn
+- 5 eMarìa
+- 5 nartiàvvri
+- 5 dòp
++ 5 màkina
++ 5 pu
+- 5 ep
+- 5 ikiatèra
++ 5 sìmmeri
+- 5 ègrats
+- 5 èsta
+- 5 ese
+- 5 allimon
++ 4 sòzi
+- 4 èrkutt
++ 4 tin
++ 4 stèo
+- 4 nafài
++ 4 addomà
+- 4 emar
++ 4 già
+- 4 cì
+- 4 èrk
+- 4 mèno
+- 4 eAnna
+- 4 fùmmu
+- 4 tasìnnef
+- 4 ociùrim
++ 4 rùstiko
+- 4 adreffìmmu
+- 4 èi
++ 4 pànta
+- 4 aceen
+- 4 gghe
+- 4 d
+- 4 l
++ 4 esù
+- 4 chrò
+- 4 etor
++ 4 ìso
+- 4 ikài
++ 4 pràma
++ 4 min
++ 4 però
+- 4 noka
++ 4 endimèni
++ 4 p
+- 4 lèfono
++ 4 ses
+- 4 esettà
++ 4 traùdi
++ 4 mòtti
+- 4 nafàne
+- 4 stote
++ 4 koràsi
+- 4 sa
++ 4 genitòru
++ 4 travùdi
+- 4 angiàne
+- 4 decidè
+- 4 gelàopr
+- 4 nastasì
+- 4 ènafào
++ 4 pulì
+- 4 òlitin
+- 4 kuàisàmba
++ 4 fòrsi
+- 4 tsegràtsi
++ 4 spìccetsa
++ 4 poèta
+- 4 pròn
++ 3 òli
++ 3 tèlune
++ 3 ivò
++ 3 olì
+- 3 Marì
+- 3 ùme
+- 3 opu
+- 3 and
+- 3 usmìnome
+- 3 endisòntao
++ 3 cerò
++ 3 nghìzi
+- 3 zze
+- 3 amonapàme
+- 3 ìsti
+- 3 òzunefài
+- 3 petìae
+- 3 adr
+- 3 ù
++ 3 ìme
+- 3 oGi
++ 3 pùru
+- 3 igenitòri
++ 3 k
+- 3 esmànte
++ 3 benzìna
+- 3 uvànni
++ 3 guìkane
+- 3 ìgli
+- 3 odàttilo
+- 3 iàt
+- 3 pà
+- 3 mmènis
+- 3 ejinèka
++ 3 vrètsi
+- 3 itt
+- 3 anèrke
+- 3 nsum
++ 3 ss
+- 3 kavrèchi
+- 3 tifin
+- 3 tì
++ 3 sòzo
+- 3 amènte
+- 3 ènanjalì
+- 3 osòzospicc
++ 3 àbbeto
+- 3 nazìso
+- 3 tapedìa
+- 3 nomevèkki
+- 3 àciakèccia
++ 3 tsomì
+- 3 ènafùrnoka
+- 3 mbròs
+- 3 nghi
++ 3 ciùri
+- 3 napài
++ 3 ìne
+- 3 omarìo
++ 3 tùo
+- 3 ot
+- 3 obàgno
+- 3 aèn
+- 3 cìnoìt
+- 3 etus
+- 3 end
+- 3 muonìcha
++ 3 prìma
+- 3 ìstràkko
+- 3 atù
++ 3 glicèa
+- 3 une
+- 3 unfàio
+- 3 am
+- 3 sta
++ 3 ècho
+- 3 fam
+- 3 chrònuamp
++ 3 rùstiku
+- 3 g
++ 3 alìo
+- 3 sìchr
+- 3 spiàggi
+- 3 vòenìme
+- 3 effòmmu
++ 3 ettò
+- 3 imà
+- 3 scerrè
+- 3 àto
+- 3 vrì
+- 3 pus
+- 3 essèr
+- 3 mìmemìn
+- 2 mo
++ 2 appèna
+- 2 ìma
+- 2 necetat
+- 2 ssomìka
+- 2 sùnniti
+- 2 ze
+- 2 atì
++ 2 àttus
++ 2 gràfutte
++ 2 kài
+- 2 ànno
+- 2 ssèremup
+- 2 f
++ 2 àtse
+- 2 lòsonan
+- 2 vòras
+- 2 ur
+- 2 cìnienèrko
++ 2 un
++ 2 gràfi
++ 2 klèete
++ 2 ertomèna
+- 2 àtt
+- 2 tsamo
++ 2 la
+- 2 es
++ 2 èchete
+- 2 tesm
+- 2 sot
+- 2 tor
++ 2 frìsko
+- 2 ràmma
+- 2 màs
+- 2 ndi
++ 2 quài
++ 2 sìmberi
++ 2 ettè
+- 2 arè
+- 2 namit
+- 2 puTrièst
++ 2 òlo
+- 2 ènus
+- 2 li
+- 2 olùs
+- 2 Venèzi
+- 2 z
+- 2 alì
+- 2 tsèr
+- 2 jamèdiko
+- 2 or
+- 2 ec
+- 2 eMàri
+- 2 imo
+- 2 ek
++ 2 mi
+- 2 inGrècia
+- 2 omekkàni
++ 2 mincià
+- 2 gh
+- 2 at
+- 2 ona
++ 2 fào
+- 2 iapòtt
+- 2 ètsan
++ 2 àvvri
++ 2 ìbbie
+- 2 mupiacè
++ 2 maràta
+- 2 cciòt
+- 2 eg
+- 2 mèr
+- 2 netsèro
+- 2 bito
+- 2 tr
++ 2 mbènni
+- 2 oklèone
++ 2 iso
+- 2 àle
++ 2 stasùn
+- 2 èpr
+- 2 ùso
+- 2 indèla
+- 2 tàn
+- 2 ijùrise
+- 2 atelìs
+- 2 tùtt
+- 2 zi
+- 2 atòri
+- 2 ope
+- 2 uder
++ 2 allòra
++ 2 c
+- 2 ifài
+- 2 òpp
++ 2 kàjo
++ 2 àrte
+- 2 frabbik
++ 2 fèti
+- 2 divent
+- 2 èo
+- 2 ròo
+- 2 ikàm
+- 2 chàtu
+- 2 màre
+- 2 mbìkeàt
++ 2 ìtele
+- 2 dikòmma
+- 2 troan
+- 2 tel
+- 2 ifè
+- 2 estèc
+- 2 apesa
++ 2 fùrno
+- 2 ìsozeèmb
++ 2 mèsa
+- 2 op
++ 2 èttase
+- 2 j
++ 2 tappèto
+- 2 etròop
+- 2 tocìpo
++ 2 ìtela
+- 2 polemim
+- 2 sol
+- 2 ardìno
++ 2 àtto
+- 2 ukorasìu
+- 2 vekki
+- 2 im
+- 2 kla
+- 2 èperik
+- 2 ai
+- 2 làsti
+- 2 gl
+- 2 cerkè
+- 1 nsùm
+- 1 ìa
++ 1 emèa
+- 1 fù
+- 1 suvoràz
++ 1 kùndu
+- 1 le
+- 1 akècc
+- 1 tùcha
+- 1 iparò
+- 1 sib
++ 1 ciù
+- 1 lù
+- 1 dicìn
+- 1 nakà
+- 1 sk
+- 1 butt
+- 1 okra
+- 1 der
+- 1 ìm
+- 1 laù
+- 1 mubris
+- 1 ri
+- 1 èr
++ 1 èglasa
+- 1 okut
+- 1 sul
+- 1 nòrr
+- 1 mè
+- 1 di
+- 1 h
+- 1 por
+- 1 jurè
+- 1 gir
+- 1 pul
+- 1 alipù
+- 1 osp
+- 1 rispo
+- 1 sem
+- 1 ojelì
+- 1 dè
+- 1 ojalì
+- 1 iAn
+- 1 àciaet
+- 1 oàb
+- 1 agor
++ 1 il
+- 1 imar
+- 1 ekiatèr
+- 1 fèr
+- 1 fiàkk
+- 1 mò
+- 1 tofà
+- 1 utògr
+- 1 da
+- 1 nichò
+- 1 pòseb
+- 1 pos
+- 1 cho
+- 1 èfàcil
+- 1 ìnta
+- 1 jà
+- 1 itèo
+- 1 àso
++ 1 kuài
+- 1 ròme
++ 1 skòla
+- 1 osòz
+- 1 rnò
+- 1 gàp
++ 1 zoì
++ 1 no
+- 1 gap
+- 1 ace
+- 1 ìch
++ 1 emì
+- 1 eMar
+- 1 sù
+- 1 ab
+- 1 oàntr
+- 1 spì
+- 1 dd
+- 1 ojurìzo
+- 1 pl
+- 1 cèpl
+- 1 sà
+- 1 àllesè
+- 1 àrbur
+- 1 ro
+- 1 ean
+- 1 tà
+- 1 usta
+- 1 èmb
+- 1 mb
+- 1 lp
++ 1 ke
+- 1 uèt
+- 1 oddùpa
+- 1 aa
+- 1 defò
+- 1 uep
+- 1 gnifik
+- 1 zìs
+- 1 jamuk
++ 1 Kalimèro
++ 1 techùddhi
+- 1 adè
+- 1 pr
+- 1 ìan
+- 1 nm
+- 1 pi
++ 1 èfe
+- 1 ìp
+- 1 àòg
+- 1 egl
+- 1 re
+- 1 ìplo
+- 1 azza
+- 1 nteìt
+- 1 òri
++ 1 an
++ 1 bar
+- 1 ci
+- 1 èggu
+- 1 Valèr
+- 1 dò
+- 1 omàs
+- 1 gè
+- 1 òssa
+- 1 ìat
+- 1 ad
+- 1 gel
+- 1 namì
+- 1 eNì
+- 1 tusi
++ 1 fèo
+- 1 òso
+- 1 va
+- 1 sik
+- 1 sce
+- 1 òmì
+- 1 mas
+- 1 mup
++ 1 etèlun
+- 1 v
+- 1 mif
++ 1 Luppìu
+- 1 sàmbapo
+
+Total words of each length (token/type): 
+1: 432 (16.6731%) / 26 (4.36242%)
+2: 490 (18.9116%) / 96 (16.1074%)
+3: 406 (15.6696%) / 130 (21.8121%)
+4: 375 (14.4732%) / 98 (16.443%)
+5: 236 (9.10845%) / 75 (12.5839%)
+6: 326 (12.582%) / 78 (13.0872%)
+7: 169 (6.52258%) / 48 (8.05369%)
+8: 90 (3.47356%) / 27 (4.5302%)
+9: 38 (1.46662%) / 10 (1.67785%)
+10: 23 (0.887688%) / 7 (1.1745%)
+11: 6 (0.231571%) / 1 (0.167785%)
+Average word length: 3.78503 / 4.30537
+
+Total segmented lexicon types: 596
+Total segmented lexicon tokens: 2591
+
+Reference lexicon summary:
+
+Total words of each length (token/type): 
+0: 2 (0.084317%) / 1 (0.150376%)
+1: 271 (11.425%) / 15 (2.25564%)
+2: 475 (20.0253%) / 40 (6.01504%)
+3: 311 (13.1113%) / 67 (10.0752%)
+4: 385 (16.231%) / 101 (15.188%)
+5: 271 (11.425%) / 94 (14.1353%)
+6: 276 (11.6358%) / 129 (19.3985%)
+7: 171 (7.20911%) / 90 (13.5338%)
+8: 92 (3.87858%) / 51 (7.66917%)
+9: 60 (2.52951%) / 32 (4.81203%)
+10: 27 (1.13828%) / 21 (3.15789%)
+11: 20 (0.84317%) / 13 (1.95489%)
+12: 7 (0.29511%) / 7 (1.05263%)
+13: 3 (0.126476%) / 3 (0.451128%)
+16: 1 (0.0421585%) / 1 (0.150376%)
+Average word length: 4.13449 / 5.65714
+
+Segmented lexicon summary:
+
+Total words of each length (token/type): 
+1: 432 (16.6731%) / 26 (4.36242%)
+2: 490 (18.9116%) / 96 (16.1074%)
+3: 406 (15.6696%) / 130 (21.8121%)
+4: 375 (14.4732%) / 98 (16.443%)
+5: 236 (9.10845%) / 75 (12.5839%)
+6: 326 (12.582%) / 78 (13.0872%)
+7: 169 (6.52258%) / 48 (8.05369%)
+8: 90 (3.47356%) / 27 (4.5302%)
+9: 38 (1.46662%) / 10 (1.67785%)
+10: 23 (0.887688%) / 7 (1.1745%)
+11: 6 (0.231571%) / 1 (0.167785%)
+Average word length: 3.78503 / 4.30537
+
+P 30.8 R 33.64 F 32.16 BP 58.47 BR 64.74 BF 61.45 LP 31.04 LR 27.82 LF 29.34
+p_cont=0.872398, log prob = -25106
