@@ -1,0 +1,1001 @@
+Using locale: en_US.UTF-8
+18
+Using locale: en_US.UTF-8
+Segmenting ../griko_mboshi_exp/original/allgriko.txt using 1-gram model
+Boundary initialization: ran
+Unigram generator: monkeys
+ alpha0: 3000, p_boundary: 0.2
+Sampling of hyperparameters: OFF
+Phoneme distribution: uniform
+Sampling 20000 iterations
+evaluating a sample
+random seed = 1516004474
+alphabet size = 36
+Raising temperature in 10 increments: (0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1)
+State: 
+ìcha na a forà sot otsomì
+mbìkeapòttu
+ìso se èmb iàt tifin èstra
+ìsozeèmb i
+ep èn se tse ka olàdro mbìkeàt tifin èstra
+ce fòrsi èna mbìkeàt tifin èstra olàdro
+è nghi se na mb iapòtt ù
+kanon ìse t ek olàdro ke olàdro e mbìkeapòttu ka èchi ta s imà d ia
+olàdro i mbìkeapòttu
+olàdro ìsozeèmb iapòtt u
+allòra fèti pòrkete èrkome ma p àle ettù c etròop oddùpa sti cciòt t u
+iso g gè ste ka mbìkeapòttu
+èna mbìkeapòttu
+ifè ne t eka olàdro mbìkeapòttu
+ettù st ospìti èchi olùs troan a mmèno si gnifik èi ka ankòra stèone t sùnniti en ìplo mèno
+fòrsi stèone ankòra atsùnniti
+èna stasùn ankòra atsùnniti ka èchi olùs troan ammèn o
+èna stasùn e ankòra or tì
+ettù ankòra stèo nm olì mo a na mmèno ce e stèone a s sùnniti
+i sòzo ne ìne ankòra atsùnniti
+sik ur amènte stèone ankòra atsùnniti
+o chrò noka mbènni ènafào poddh à glicèa
+èna st atù ne ankòra atsùnniti
+i sòzi ka ìne ankòra atsùnniti
+pi stèo ka stèone ankòra atsùnniti
+èfàcil eka stèone ankòra atsùnniti
+èna guìkane
+fòrsi etus èchi èssu
+èna guìkane
+fòrsi eg guìkane
+atelìs i na zìs i na min ìse l iparò nghìzi nafài alìo
+mif ai ovrài
+fèo p pòrkete etròop òssa tèlo
+enè nafài t ovrài
+atelìs i namì ni pànta l ettò m ifài t ovrài
+ospìti o fabbrik ètsan ee fabbrik atù ri
+ospìti o fabbrik èi omàs ci a
+tùtt ospìti t o fabbrik ètsan ope tt ìnta chrònuamp ì
+tùo o frabbik èss ano ma st òri ka ìan ee frabbik atòri
+t ospìti to fabbrik èo ne i fabbrik atòri
+èrk e t e fabbrik àto
+dòp oGiovànn ijùrise ovrài èssu ìbbie poddh ìstràkko jatì ìchepolem ìsonta òlitin addomà
+jatì ìchepolem ìsonta poddh ì
+evò ospìti o sòzo pulizzè tsi kuàisàmba e mànamu to pulì zze quài mèri jatì t ùso ze ìche i pos sib i l i tàn okut ètsi quài mèri
+ì o ne poddh ìstràkko
+dòp u oGiovànn ijùrise èssu
+mòtte oGi uvànni ìrte èssu t ovrài ìbbie poddh ìstràkko jà i ìchepolem ìsonta òlitin addomà
+ìchepolem ìsonta òlitin addomà d a
+jatì ìchepolem ìsonta òlitin addomà da
+an evò ìcha d ònta sì nd eka ìcha ano ìsonta ka ìchena vrètsi
+anìch etor ìsonta e ma nteìt sereka v r èchi
+anìch etor ìsonta cerò o cerò enìche èr t onta na se grà ni òlo
+anìch ad ònta tasìnnef a ìcha ano ìsonta kavrèchi
+anìch ato r ìsonta o cerò ìcha tor ìsonta tasìnnef aceen ìcha èggu onta na me grà ni
+àrtena ivò stèo studiè ona gh ettò m essèr e
+kanon ìsonta t esmànte ìt sereka na vrètsi
+anìch etor ìsonta tasìnnef at esmànte ìche ano ìsonta ka ìchena vrètsi
+kanon ònta tasìnnef ano ò kavrèchi
+kanon ònta t esmànte ano ò kavrèchi
+enèch opu èna pào
+pu ìche nastasì enìche
+enìche nastasì
+enìche pus ta sì
+en ìs se r e pu nastasì
+enìche pu ìchena st atì
+àrtena ivò ste studiè o na na màs ona divent èss o m a èstra
+enìche pus ta tì
+evò enèchot i ènafào
+enèch i nafài
+enèchot i ènafào
+evò enèchot ìp o tin a fào
+c ìs i fam ìgli a enèch i nafài
+e netsèro esù ti ste gràfi
+e netsèro ti gràfi
+evò en essèr o ti e na grà ss o
+sìmmeri evò enèchot i kàmi
+ia derf ìmmu fèti pòrkete en a studiè tsi jamèdiko
+enìche ti kàmi
+enèchot ikài
+ècho t ikài
+enèchot ikài
+enèchot ikàm i
+sul èo èna pràma però mi milìsi ts ìt ta pràma ta m iMarìa
+en èna milìsi mbròs tinAnna àtse tùo
+sòzi min o milìsi atù tt op ràmma me tinAnna
+i sòzi mi milìsi atsè tùo me tinAnna
+ìtela èna bar mèna fùrno nakà ni kalò rùstiku
+allòra evò àrtena ste studiè o tse ma èstra ma ècho mia a derf ìa derf ìmmu studiè ifè to pòrkete jamèdiko
+tèlo ènafùrnoka pulì rùstiku
+pào cerkè onta ènafùrnoka kànni rùstiku
+ìse la na vrì ko a fùrno ka ka n ni un rùstiko ka lù
+ènafùrnoka i kànni tsomì kalò
+i pào vrì sk onta na f ur noka kànni t otsomì kalò ce en i tsèr opu stèi
+ka i pulì tsomì kalò
+pào cerkè onta èna màkina ka k u nsum èi olì benzìna
+eMàri ka jurè i mia màkina ka k o nsum è i kànni alìo ko nsùm o se benzìna
+na ko nsum ètsi alìo benzìna
+evò st o derf ò mu en t utògr azza mài èn angràmma uder fùmmu
+to chrò noka mbènni tin adreffìmmu èna èna studiè tsi me dicìn a
+ègrats aèn angràmma uder fùmmu
+en ègrats a mài èna g ràmma s on aderfòm mu
+e vòenìme grammèn a mai angràmma ta der fùmmu
+adr effòmmu em o ma i grammèn a angràmma
+ègrats aèn angràmma adr e fùmmu
+i mànamu ce ociùrim uep ìt ta ne mài s inGrècia
+enèch u ne p a mèna
+e di k ìmmu e mànamu ociùrim u e mànamu ce ociùrim u e h enèch une st am mèna mai st inGrècia
+e derf ìmmu enè ertomèna mài ettù kùndu mèna
+e derf ì mu enè ertomèna ankòra ettù
+adreffìmmu fù ep pòrkete etèli na divent èss im essèr a
+e Valèr ia me le t àòg i or n àle
+tin adreffìmmu ankòra en ìrte ettù
+Marì ka esù èfe
+ìse già famèna
+enèch i famèna mài èna n rùstiko
+eMàri ka enè famèna mai a rùstiko
+èchi già famèna
+en èchete famèna mài èna n rùstiko
+e sì ìse sta famèna mai i lp a sti cciòt to
+Marì sa eNì cho enèch un famèna mai
+esù ta màre tse t alàchana
+na m à ti èna pràma na studiè tsi èna pràma
+ìse sta maràta
+marè ts ato t alàchana
+ikàm ato già t alàchana
+emar èss ato t alàchana
+i marè ts ato l alàchana
+èchete maràta t alàchana
+en ìme ankòra endimèni
+ankòra en end ìs imo
+i pào ndi mèno
+ìm endimèni
+ikiatèra mu i tèli napài
+nd ìt imo
+èsta sa
+op laù na tèli p li mèno
+mubris t ì odàttilo
+mup r ìsti t odàttilo
+odàttilo èpr i mmèno
+evò sti z o ìmmu ìme pànta polemim mèna
+ociùrim mu è polemim mèna pànta
+ìme st ammèn a pànta techùddhi
+iso traùdi èn grammèn opu ss èna poèta dikòmma
+i tèli napài Luppìu na
+ìrte grammèn o
+pus s èna fam òso poèta
+ìso traùdi ìrte grammèn ot èss e r u chrònuamp ì
+tùtt o travùdi ee ton ègrats e èna poèta
+ìrte grammèn o
+to ègrats e
+t ùso travùdi ìrte grammèn o poddh ù chrònuamp ìat to poèta dikòmma
+a kàjo traùdi aa sòzi grà tsi i nìtta
+a traùdi a gràfutte tse nìtta
+ta travùdi a plèo nòrr ia èrkutt e grammèn a si nìtta
+eMarìa àrtena st e mbròs e mèna ma st eplònni
+t a kàjo travùdi ai gràfutte atsè nìtta
+èglasa mia butt ìgli a
+esù pòseb o tt ìgli e ìs egl ammèn adè ka
+eg làsti ec òpp a
+apet àciakèccia u se ndìnn une igenitòri
+èrkutt end i mèna
+apet àciakèccia a ndìnn une igenitòri
+tapedìa mincià èrkutt endimèni àtt on ciùri ce àtt imà na
+èrkutt endimèni àttus genitòru
+tusi ndìnn on e igenitòri
+st eplònni
+apet àciakèccia forà e ndìnn o tte pùru ma ne chàtu
+tapedìa mincià en i ndìnn u tte ma nichò t to
+ta petìae ni ndìnn o tte ma ne chàtu
+omarìo tèli famèno appèna o marè i ka è plèo sa por ìt o
+etèli famèno o li mia forà
+tofà i ee tèli famèno sù bito èpr è s to
+omarìo etèli famèno appèna o marè i
+tèli tèli famèno tr em mò
+òlo omarìo tèli votimmèn o
+emar angiàne èn ese gir ètsi dòp u emar èi
+st ec eplònni st o grà tt i
+tèlune votimmèn e
+tesm a r angiàne tèlune ee votimmèn e
+emar angiàne etèlun votimmèn e
+imar angiàne i tèlune votimmèn e
+o apesa mmèno oklèone oklèone òli i fam il i à r i
+klèete
+ope sa mmèno tèli gl a mmèno
+ton apesa mmèno tèli gl e mmèno
+etèli kla mmèno
+ka n èna stote lèfono tèli na tsèr iàt tinAnna
+o apet a mmèno i klèete
+i tèli kla mmèno
+e màkina tèli sti ammèn ia tt omekkàni ko
+e màkina ek làsti ce etèli ti ammèn i àtto màs tor a
+i màkina tèli sti ammèn iàt t omekkàni ko
+o àbbeto ukorasìu èna ne àspro
+oàb bito ukorasìu tèli àspro
+ton àbbeto atsè koràsi tèli àspro
+o àbbeto àtto koràsi koràsi si ee ee etèli àspro
+èna è ne àspro
+iAn na àrtena stèi itt u mbròs e mèna st eplònni
+tèli àspro
+st ipàsta tèli àla
+ipàsta tèli àla
+st ipàsta vàl e àla etèli t àla
+ipàsta tèli àla
+ipàsta ìtele àla
+am e st ipàsta ìche tel ìsonta àla tùcha vàl onta
+se t ipàsta ìtele àla ton ìcha vàl onta
+si ipàsta ìche tel ìsonta àla t o ìcha vàl onta
+è va la ènanjalì st otìcho
+e stèo stote lèfono e adreffìmmu e tin èchi estèc eplònni
+st otìcho tèli ojalì
+cì tt otìcho tèli ènanjalì
+otìcho tèli na nghi alì
+st otìcho tèli ojelì
+otìcho tèli ènanjalì
+ettù mèsa tèli èna tappèto
+ciù mèsa èna vàl i èna tappèto
+ìtela eMarìa àvvri narti sem èna
+tèlo eMarìa nartiàvvri
+tèlo ka iMarìa è nartiàvvri
+eMarìa però stèi àrtena stèi ka mmènis tocìpo ce esòz zi rispo nd ètsi stote lèfono esòz zi milìsi stote lèfono
+ejinèka tèli na pulizzè ssi osp i t i kuàimèri nastasì pul i ta
+evò tèlo narti eMarìa ettù
+i tèlo ka iMarìa nartiàvvri
+i tèlo iMarìa nartiàvvri
+i tèlo nartiàvvri iMarìa
+nd ìsonta on aderfòm muonìcha pàronta defò re ma mèna
+z ìsonta ekiatèr a mu inìcha pàronta stin aglisìa
+anìch and ìsonta ikiatèra inìcha pàronta stin aglisìa
+anìch and ìsonta ikiatèra mu t inìcha pàronta si n aglisìa
+anìch end ìsonta ikiatèra inìcha pàronta stin aglisìa
+nd ìsonta t ikiatèra t inìcha pàronta stin aglisìa
+st eka mmènis to g i ardìno s tocìpo
+anìch endisòntao aderfòm muonìcha pàronta ma mèna
+anìch endisòntao aderfòm muonìcha pàronta ma mèna
+anìch endisòntao a tr effòmmu on ìcha pàronta me me a
+ndi t ònta
+onìkusa ka èrk ato
+onìkusa narti
+t onìkusa ee ka èsta zze
+t onìkusa narti
+t onìkusa mòtte èrk a to
+t onìkusa ka ìrte
+stèi ka si mmènis to nghi ardìno
+olì ko en pr atì mài ne mmèno min alipù na
+ta koràsi a tèlo ne kanon im mèna
+spìccetsa à tsegràtsi
+àrte spìccetsa tsegràtsi
+to spìccetsa atsè kàmi
+en e spìccetsa osòzospicc ètsi tsegràtsi
+osòzospicc ètsi à tsegràtsi
+t osòzospicc ètsi ts è kàmi
+èperik o lòsonan a r ètsi àtse nìtta
+èperik u lòsonan at ètsi atsè nìtta
+e vòenìme ankòra pròn ta nghìzi narti ste s ettò
+okra sì kalò en aèn ean vekki àto
+èna ka tà ro ton àrbur o
+Marì ka èna r mas tì àvvri
+anèrke ses esettà ste ankòra marèo
+anèrti s esettà and em indèla plèo ka em èchi
+m indèla àllesè tte ka vòenìme pròn ta
+anèrti ses itt à ankòra enè pròn to
+ankòra ste marèo ce en ìne pròn to
+anèrti st esettà evò ste marèo
+anèrti st esettà evò ste marèo
+ejinèka èn eka pà ce na pulizzè ssi èna pulizzè ssi ospìti ka mèri
+estèc e marèo
+ce pu marèo
+ste ankòra marè onta
+mòtte èsta se oGi uvànni tinAnna ì stin e ankòra marè onta
+mòtti ìrte èttase oGi uvànni eAnna ankòra ìchena marè ssi
+sà tte oGiovànn i èsta se èsta se st ospìti o èss u ankòra ce pu màre gghe
+ìsti gghe ankòra marè onta
+mòtti èttase oGiovànn i eAnna ìsti gghe cèpl on ne
+mòtti ìrte oGiovànn i eAnna già ìche pl ò s onta
+evò dòp ojurìzo vekki arè dd a pulò spì ti mu ka ècho Venèzi a stin Venèzi a ce èrkome nazìso ettù sti Kalimèro
+ejinèka pulizzè i ospìti oàntr ep o dè gghe
+mòtte j èn nomevèkki a pulò t ospìti a puTrièst e ce èrkome itt ù nazìso si tàlassa
+mòtti ivò e gh èn nomevèkki a e pulò ospìti e pulò ospìti puTrièst e èrkome ce ab itèo eMar tàn a
+mòtte j è nomevèkki o pulò t ospìti mu ce pào sti tàlassa nazìso
+emì decidè tsamo ka sìmmeri ìch amonapàme sti spiàggi am on aderfòm u però cìnoìt sereka kànni fiàkk aceen ìrte ma ma e cì ka e tàlassa ep i ace i dòp u ètsi chrò
+ettè decidè tsamo ka sìmmeri pà me sti spiàggi a
+ettè decidè ts amonapàme si tàlassa òli ma ton aderfòm uèt ese narti
+sìmberi decidè ss amonapàme sti tàlassa sti spiàggi a ep ì r t a to òli sol amènte o adr effòmmu nd è
+cìnoìt sereka sìmmeri è frìsko ètsi chrò ce enè ka n ne obàgno
+cìnoìt sereka sìmmeri ìchena kàmi frìsko ot sìchr aceen ìso ze kàmi obàgno
+cì o ìs sereka sìmberi kànni s sìchr a ce etèli se narti
+ka ìs sereka esòz ikài obàgno
+ìt sereka kànni t sìchr aceen ìchena na t ètsi
+em ìse gap ùme ses èna ts alì ese mèr e ce ese sòzo me sce r ètsi mài tse cì noka vrì ka mo kalò ses èna
+pùru ka s etor òmì a forà en se scerrè o mài
+pùru ka sì ta mia forà sol amènte es allimon ò mài
+ese allimon ùme mài
+imà na ce o ciùri enè enè no scerrè ts o ma mài jatì ma dò ka ne i zoì ce a gàp i
+u genitòru en ènus scerrè ts ume mài
+u genitòru en ènus allimon ìso me mai
+en èn allimon ìs ume mai t usta ciùri a ma tesm à ne
+ti kànni eAnna o sàmbapo rnò
+àttus genitòru
+en èna allimon i st ùme sta mài
+apet àciaet osòz ume esòz unfàio gelàopr ìma nafàne
+prìma napài sti skòla
+a petìae s òzunefài esòz unfàio gelàopr òpp ifài
+tapedìa es òzunefài to gelàopr ì ta ka nafàne
+akècc ia arè ti esòz unfàio gelàopr ìma ka na f a ne prìma nafàne
+ta petìae s òzunefài to gel àto prìma ka nafàne
+namit usmìnome
+en èna t usmìnome
+i mànamu i pulì zze t ospìti kài mèri
+cìnienèrko tte etus mèno me t ròme
+etus mè n ume plèo
+namit usmìnome
+àrte ka cìnienèrko tte plèo
+mìmemìn i ka en èrkome
+mìmemìn i en èrkome
+mìmemìn eka e n èrk ume
+anèrti n èssu mu kuàisàmba vòras otsomì na fèr i
+anèrti èssu kuàisàmba
+anèrke se ka i mèri èssu mu a vòras ot otsomì
+o me ssèremup e ka en ènafào glicèa jamuk ànno ne d ànno i se mèna mupiacè o necetat ròo
+anèrke se kuàisàmba suvoràz o otsomì
+kuàimèri nghìzi navoràso me otsomì
+è navoràso otsomì kuài kuàimèri
+è navoràso t otsomì ka i mèri
+è navoràso o ssomìka mèri
+èna a forà sot otsomì pà ssi ni mèr a
+ìcha navoràso tsomì kuàimèri
+ìcha navoràso otsomì kuàimèri
+ìcha navoràso t otsomì kài mèri
+ìcha na agor àso o ssomìka mèri
+o me ssèremup e na min fào glicèa ta però emèa mupiacè o necetat ròo
+_nstrings=xxx
+
+
+Segmented lexicon:
++ 76 i
++ 60 a
++ 59 e
++ 58 o
++ 53 t
++ 52 ka
++ 37 èna
++ 32 na
++ 27 tèli
++ 26 en
+- 25 st
++ 24 ankòra
+- 22 ìsonta
++ 21 ce
++ 19 ne
++ 19 ma
++ 18 to
++ 18 ta
++ 18 u
++ 16 se
++ 15 è
++ 14 mài
++ 14 s
+- 14 ospìti
++ 14 me
++ 14 mèna
++ 13 evò
+- 13 ètsi
++ 13 ìcha
+- 12 mmèno
++ 12 sti
+- 12 onta
+- 11 anìch
+- 11 r
+- 11 otsomì
++ 11 mu
++ 10 ste
++ 10 n
++ 10 ìrte
++ 9 ti
++ 9 pàronta
++ 9 ettù
++ 9 tèlo
++ 9 àla
++ 9 ì
++ 9 mèri
++ 8 ts
+- 8 ipàsta
++ 8 èchi
+- 8 marè
++ 8 èn
+- 8 grammèn
+- 8 enè
++ 8 etèli
++ 8 atsùnniti
++ 8 kànni
++ 8 ee
+- 8 sereka
++ 8 si
++ 7 famèna
+- 7 ni
++ 7 èssu
+- 7 narti
+- 7 fabbrik
+- 7 enèchot
++ 7 ìse
+- 7 à
+- 7 olàdro
+- 7 tte
+- 7 ìs
++ 7 mai
+- 7 navoràso
+- 7 studiè
+- 7 enèch
++ 7 on
+- 7 enìche
++ 6 kàmi
++ 6 kalò
+- 6 poddh
+- 6 ìchena
+- 6 eka
++ 6 àrtena
++ 6 àspro
+- 6 ia
++ 6 pào
++ 6 nìtta
+- 6 èss
+- 6 ko
+- 6 aderfòm
+- 6 ìt
+- 6 derf
+- 6 nd
++ 6 marèo
+- 6 mbìkeapòttu
+- 6 anèrti
+- 6 ammèn
++ 6 forà
+- 6 ano
++ 6 m
+- 6 onìkusa
++ 6 stèone
++ 6 ìche
++ 6 stin
++ 6 ton
+- 6 ndìnn
++ 6 èrkome
+- 6 esòz
+- 6 otìcho
+- 6 alàchana
+- 6 ato
+- 6 tt
+- 5 mànamu
+- 5 kanon
+- 5 vàl
+- 5 sì
++ 5 atsè
+- 5 ssi
+- 5 èstra
++ 5 famèno
+- 5 ònta
+- 5 grà
++ 5 mia
++ 5 stèi
+- 5 apet
+- 5 ume
+- 5 ìmmu
+- 5 tinAnna
++ 5 tàlassa
++ 5 milìsi
+- 5 iMarìa
+- 5 pòrkete
+- 5 kuàimèri
+- 5 tsi
++ 5 tse
+- 5 ìchepolem
++ 5 mòtte
+- 5 ovrài
++ 5 pulò
+- 5 pulizzè
+- 5 eplònni
++ 5 jatì
+- 5 inìcha
++ 5 aglisìa
++ 5 ò
+- 5 em
+- 5 angràmma
++ 5 plèo
+- 5 oGiovànn
+- 5 votimmèn
+- 5 eMarìa
+- 5 nartiàvvri
+- 5 dòp
++ 5 màkina
++ 5 pu
+- 5 ep
+- 5 ikiatèra
++ 5 sìmmeri
+- 5 ègrats
+- 5 èsta
+- 5 ese
+- 5 allimon
++ 4 sòzi
+- 4 èrkutt
++ 4 tin
++ 4 stèo
+- 4 nafài
++ 4 addomà
+- 4 emar
++ 4 già
+- 4 cì
+- 4 èrk
+- 4 mèno
+- 4 eAnna
+- 4 fùmmu
+- 4 tasìnnef
+- 4 ociùrim
++ 4 rùstiko
+- 4 adreffìmmu
+- 4 èi
++ 4 pànta
+- 4 aceen
+- 4 gghe
+- 4 d
+- 4 l
++ 4 esù
+- 4 chrò
+- 4 etor
++ 4 ìso
+- 4 ikài
++ 4 pràma
++ 4 min
++ 4 però
+- 4 noka
++ 4 endimèni
++ 4 p
+- 4 lèfono
++ 4 ses
+- 4 esettà
++ 4 traùdi
++ 4 mòtti
+- 4 nafàne
+- 4 stote
++ 4 koràsi
+- 4 sa
++ 4 genitòru
++ 4 travùdi
+- 4 angiàne
+- 4 decidè
+- 4 gelàopr
+- 4 nastasì
+- 4 ènafào
++ 4 pulì
+- 4 òlitin
+- 4 kuàisàmba
++ 4 fòrsi
+- 4 tsegràtsi
++ 4 spìccetsa
++ 4 poèta
+- 4 pròn
++ 3 òli
++ 3 tèlune
++ 3 ivò
++ 3 olì
+- 3 Marì
+- 3 ùme
+- 3 opu
+- 3 and
+- 3 usmìnome
+- 3 endisòntao
++ 3 cerò
++ 3 nghìzi
+- 3 zze
+- 3 amonapàme
+- 3 ìsti
+- 3 òzunefài
+- 3 petìae
+- 3 adr
+- 3 ù
++ 3 ìme
+- 3 oGi
++ 3 pùru
+- 3 igenitòri
++ 3 k
+- 3 esmànte
++ 3 benzìna
+- 3 uvànni
++ 3 guìkane
+- 3 ìgli
+- 3 odàttilo
+- 3 iàt
+- 3 pà
+- 3 mmènis
+- 3 ejinèka
++ 3 vrètsi
+- 3 itt
+- 3 anèrke
+- 3 nsum
++ 3 ss
+- 3 kavrèchi
+- 3 tifin
+- 3 tì
++ 3 sòzo
+- 3 amènte
+- 3 ènanjalì
+- 3 osòzospicc
++ 3 àbbeto
+- 3 nazìso
+- 3 tapedìa
+- 3 nomevèkki
+- 3 àciakèccia
++ 3 tsomì
+- 3 ènafùrnoka
+- 3 mbròs
+- 3 nghi
++ 3 ciùri
+- 3 napài
++ 3 ìne
+- 3 omarìo
++ 3 tùo
+- 3 ot
+- 3 obàgno
+- 3 aèn
+- 3 cìnoìt
+- 3 etus
+- 3 end
+- 3 muonìcha
++ 3 prìma
+- 3 ìstràkko
+- 3 atù
++ 3 glicèa
+- 3 une
+- 3 unfàio
+- 3 am
+- 3 sta
++ 3 ècho
+- 3 fam
+- 3 chrònuamp
++ 3 rùstiku
+- 3 g
++ 3 alìo
+- 3 sìchr
+- 3 spiàggi
+- 3 vòenìme
+- 3 effòmmu
++ 3 ettò
+- 3 imà
+- 3 scerrè
+- 3 àto
+- 3 vrì
+- 3 pus
+- 3 essèr
+- 3 mìmemìn
+- 2 mo
++ 2 appèna
+- 2 ìma
+- 2 necetat
+- 2 ssomìka
+- 2 sùnniti
+- 2 ze
+- 2 atì
++ 2 àttus
++ 2 gràfutte
++ 2 kài
+- 2 ànno
+- 2 ssèremup
+- 2 f
++ 2 àtse
+- 2 lòsonan
+- 2 vòras
+- 2 ur
+- 2 cìnienèrko
++ 2 un
++ 2 gràfi
++ 2 klèete
++ 2 ertomèna
+- 2 àtt
+- 2 tsamo
++ 2 la
+- 2 es
++ 2 èchete
+- 2 tesm
+- 2 sot
+- 2 tor
++ 2 frìsko
+- 2 ràmma
+- 2 màs
+- 2 ndi
++ 2 quài
++ 2 sìmberi
++ 2 ettè
+- 2 arè
+- 2 namit
+- 2 puTrièst
++ 2 òlo
+- 2 ènus
+- 2 li
+- 2 olùs
+- 2 Venèzi
+- 2 z
+- 2 alì
+- 2 tsèr
+- 2 jamèdiko
+- 2 or
+- 2 ec
+- 2 eMàri
+- 2 imo
+- 2 ek
++ 2 mi
+- 2 inGrècia
+- 2 omekkàni
++ 2 mincià
+- 2 gh
+- 2 at
+- 2 ona
++ 2 fào
+- 2 iapòtt
+- 2 ètsan
++ 2 àvvri
++ 2 ìbbie
+- 2 mupiacè
++ 2 maràta
+- 2 cciòt
+- 2 eg
+- 2 mèr
+- 2 netsèro
+- 2 bito
+- 2 tr
++ 2 mbènni
+- 2 oklèone
++ 2 iso
+- 2 àle
++ 2 stasùn
+- 2 èpr
+- 2 ùso
+- 2 indèla
+- 2 tàn
+- 2 ijùrise
+- 2 atelìs
+- 2 tùtt
+- 2 zi
+- 2 atòri
+- 2 ope
+- 2 uder
++ 2 allòra
++ 2 c
+- 2 ifài
+- 2 òpp
++ 2 kàjo
++ 2 àrte
+- 2 frabbik
++ 2 fèti
+- 2 divent
+- 2 èo
+- 2 ròo
+- 2 ikàm
+- 2 chàtu
+- 2 màre
+- 2 mbìkeàt
++ 2 ìtele
+- 2 dikòmma
+- 2 troan
+- 2 tel
+- 2 ifè
+- 2 estèc
+- 2 apesa
++ 2 fùrno
+- 2 ìsozeèmb
++ 2 mèsa
+- 2 op
++ 2 èttase
+- 2 j
++ 2 tappèto
+- 2 etròop
+- 2 tocìpo
++ 2 ìtela
+- 2 polemim
+- 2 sol
+- 2 ardìno
++ 2 àtto
+- 2 ukorasìu
+- 2 vekki
+- 2 im
+- 2 kla
+- 2 èperik
+- 2 ai
+- 2 làsti
+- 2 gl
+- 2 cerkè
+- 1 nsùm
+- 1 ìa
++ 1 emèa
+- 1 fù
+- 1 suvoràz
++ 1 kùndu
+- 1 le
+- 1 akècc
+- 1 tùcha
+- 1 iparò
+- 1 sib
++ 1 ciù
+- 1 lù
+- 1 dicìn
+- 1 nakà
+- 1 sk
+- 1 butt
+- 1 okra
+- 1 der
+- 1 ìm
+- 1 laù
+- 1 mubris
+- 1 ri
+- 1 èr
++ 1 èglasa
+- 1 okut
+- 1 sul
+- 1 nòrr
+- 1 mè
+- 1 di
+- 1 h
+- 1 por
+- 1 jurè
+- 1 gir
+- 1 pul
+- 1 alipù
+- 1 osp
+- 1 rispo
+- 1 sem
+- 1 ojelì
+- 1 dè
+- 1 ojalì
+- 1 iAn
+- 1 àciaet
+- 1 oàb
+- 1 agor
++ 1 il
+- 1 imar
+- 1 ekiatèr
+- 1 fèr
+- 1 fiàkk
+- 1 mò
+- 1 tofà
+- 1 utògr
+- 1 da
+- 1 nichò
+- 1 pòseb
+- 1 pos
+- 1 cho
+- 1 èfàcil
+- 1 ìnta
+- 1 jà
+- 1 itèo
+- 1 àso
++ 1 kuài
+- 1 ròme
++ 1 skòla
+- 1 osòz
+- 1 rnò
+- 1 gàp
++ 1 zoì
++ 1 no
+- 1 gap
+- 1 ace
+- 1 ìch
++ 1 emì
+- 1 eMar
+- 1 sù
+- 1 ab
+- 1 oàntr
+- 1 spì
+- 1 dd
+- 1 ojurìzo
+- 1 pl
+- 1 cèpl
+- 1 sà
+- 1 àllesè
+- 1 àrbur
+- 1 ro
+- 1 ean
+- 1 tà
+- 1 usta
+- 1 èmb
+- 1 mb
+- 1 lp
++ 1 ke
+- 1 uèt
+- 1 oddùpa
+- 1 aa
+- 1 defò
+- 1 uep
+- 1 gnifik
+- 1 zìs
+- 1 jamuk
++ 1 Kalimèro
++ 1 techùddhi
+- 1 adè
+- 1 pr
+- 1 ìan
+- 1 nm
+- 1 pi
++ 1 èfe
+- 1 ìp
+- 1 àòg
+- 1 egl
+- 1 re
+- 1 ìplo
+- 1 azza
+- 1 nteìt
+- 1 òri
++ 1 an
++ 1 bar
+- 1 ci
+- 1 èggu
+- 1 Valèr
+- 1 dò
+- 1 omàs
+- 1 gè
+- 1 òssa
+- 1 ìat
+- 1 ad
+- 1 gel
+- 1 namì
+- 1 eNì
+- 1 tusi
++ 1 fèo
+- 1 òso
+- 1 va
+- 1 sik
+- 1 sce
+- 1 òmì
+- 1 mas
+- 1 mup
++ 1 etèlun
+- 1 v
+- 1 mif
++ 1 Luppìu
+- 1 sàmbapo
+
+Total words of each length (token/type): 
+1: 432 (16.6731%) / 26 (4.36242%)
+2: 490 (18.9116%) / 96 (16.1074%)
+3: 406 (15.6696%) / 130 (21.8121%)
+4: 375 (14.4732%) / 98 (16.443%)
+5: 236 (9.10845%) / 75 (12.5839%)
+6: 326 (12.582%) / 78 (13.0872%)
+7: 169 (6.52258%) / 48 (8.05369%)
+8: 90 (3.47356%) / 27 (4.5302%)
+9: 38 (1.46662%) / 10 (1.67785%)
+10: 23 (0.887688%) / 7 (1.1745%)
+11: 6 (0.231571%) / 1 (0.167785%)
+Average word length: 3.78503 / 4.30537
+
+Total segmented lexicon types: 596
+Total segmented lexicon tokens: 2591
+
+Reference lexicon summary:
+
+Total words of each length (token/type): 
+0: 2 (0.084317%) / 1 (0.150376%)
+1: 271 (11.425%) / 15 (2.25564%)
+2: 475 (20.0253%) / 40 (6.01504%)
+3: 311 (13.1113%) / 67 (10.0752%)
+4: 385 (16.231%) / 101 (15.188%)
+5: 271 (11.425%) / 94 (14.1353%)
+6: 276 (11.6358%) / 129 (19.3985%)
+7: 171 (7.20911%) / 90 (13.5338%)
+8: 92 (3.87858%) / 51 (7.66917%)
+9: 60 (2.52951%) / 32 (4.81203%)
+10: 27 (1.13828%) / 21 (3.15789%)
+11: 20 (0.84317%) / 13 (1.95489%)
+12: 7 (0.29511%) / 7 (1.05263%)
+13: 3 (0.126476%) / 3 (0.451128%)
+16: 1 (0.0421585%) / 1 (0.150376%)
+Average word length: 4.13449 / 5.65714
+
+Segmented lexicon summary:
+
+Total words of each length (token/type): 
+1: 432 (16.6731%) / 26 (4.36242%)
+2: 490 (18.9116%) / 96 (16.1074%)
+3: 406 (15.6696%) / 130 (21.8121%)
+4: 375 (14.4732%) / 98 (16.443%)
+5: 236 (9.10845%) / 75 (12.5839%)
+6: 326 (12.582%) / 78 (13.0872%)
+7: 169 (6.52258%) / 48 (8.05369%)
+8: 90 (3.47356%) / 27 (4.5302%)
+9: 38 (1.46662%) / 10 (1.67785%)
+10: 23 (0.887688%) / 7 (1.1745%)
+11: 6 (0.231571%) / 1 (0.167785%)
+Average word length: 3.78503 / 4.30537
+
+P 30.8 R 33.64 F 32.16 BP 58.47 BR 64.74 BF 61.45 LP 31.04 LR 27.82 LF 29.34
+p_cont=0.872398, log prob = -25106
