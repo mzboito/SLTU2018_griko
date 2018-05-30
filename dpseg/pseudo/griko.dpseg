@@ -1,0 +1,907 @@
+Using locale: fr_FR.UTF-8
+18
+Using locale: fr_FR.UTF-8
+Segmenting ../griko_experiments/dpseg/pseudo/griko.pseudo.encoded using 1-gram model
+Boundary initialization: ran
+Unigram generator: monkeys
+ alpha0: 3000, p_boundary: 0.2
+Sampling of hyperparameters: OFF
+Phoneme distribution: uniform
+Sampling 20000 iterations
+evaluating a sample
+random seed = 1527619978
+alphabet size = 48
+Raising temperature in 10 increments: (0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1)
+State: 
+fu fS NA U H UfL nf NR fu Uf
+fA pRf uf
+u fIf PNY fSf UL IfI f
+Y fn fc h
+fcf Rf UfU jk f U Rc fYf P fu p
+h fl U clS fA N fp Yl fc L nux fh
+fVf UL fl fI fuf
+fL l cfV fKf Dc fU A UfU IfK fSf lf Vc PH Ufc hI
+fR ljS fYf Q fuf uf j fIf
+n ufj fU fn DfHK fL S cf L N fUf I
+SU fYf HU n fu fR U RfF jPY H fL fnS Uf SY fS fR Ic Y X If
+N fP UL fn uS fN fuf
+f HS fu fn cf
+fcl fL fUf nf N fN fn L uS fnS uf
+fl fu YfN YfN R fcf UY bYl fu U NA IfU fu f Yu fR fR fI
+fKU fS f j fKU d Ufc IV
+IfU u K RfU IUf nf h fS fX fn fY U
+UfU fUc fd uf Ufn UI U Yu IXI
+fX fX K fl bfsXlmu fcf O fUf UfU K fl m
+fU Xf UL Ufl fL u fu fUc
+R Y clS n fn fu fSf n fp n c Ufn jf L SY fSf SP I nf
+IfuI UfU N O A fl jRf P fu j Uf RU IX uI fRf lf eVKnm p Sf V Ufc fR Uf l
+fL H YfU fu p fh fA fUc L
+fHf H fl fn fUf uI u IfU
+fU V fl fN f U fn Sh n fn hI fHf D fN U Hj fUf
+fn fA fN fl fL n Ap AU fe pf
+YfU Y fn fu
+c KfV l fl fl fVf Ufl h
+fN IY fAf IXI X
+Xf XfK lf lf nf
+fU fcl YfU B fcY cY uOfLfv fY B UfU lYd UK fRU c A S hUf IX
+fp Vc fRf U
+Xfl UfH K p l Of U fl H KH nKgTf
+UfS lS fN fR
+fY Qc fl Yu fKL fA fn d pj Ufl C UAf Q fU
+fR nDj fY fn fY fc t fUf IfU SfL b fA fSf uO If
+U R K Y uI O fU pd fe fc fR UfU d f
+If IfU fYf cR fc N fX fS fS fY RU
+Xf mR fp R fAf lK fQ RU fn U fh w fT fl fI
+fSf U fl Suf u fu fu fSf lN fUf UfU
+fYf Sfl fU p fj
+fd j fn d L Y fcf AU fN fcf uI YfU fYc fU fUf UI Uf IY bl fc KfemYX IY fY c fUlj fl c pf HL fR fU fcf
+u fR fl fS KfuU LS fA fI fHf
+Uf B jf H fYu Yu fIf HN fm n L Yfl fc f DUIR fj lf IfU N Ufn YfU p fYu IfY fY fUf p d fR fA fd u Ufu fI
+uI lf AU fn p fc L UfL
+fU R fn fU fN Yu fU fS UfL fc pIh
+I nf UY I YfU fIf Uf J fY I uV Xf uf mY c fR xfn fN uYu Y U fBf uf jf lf c fX fU xX lf Yj fuf X
+fUf cfN Sfb fU fn fh
+fUf S fl N fU uf N Ufu n p u n I
+fR fRU IUf uf jhIY b fKL Yc fuf a fuU j
+U N UHk H fl fl p V fn N fUf jf aJ h fn Yl HR Yil fl pf cU R fYU
+Ufl fl fl SV Yf O H fu Ufn If hXf L fcf jf OV l Of R S fVfV fL S fh
+X fN l fn U fAf UY fK bl fS L fcf UDc Ufu X
+UL mlL N lf Y fn fN phfl fL A fc fp fU Y uf ASR X c fl fSf Uf Ufu fI
+fU fI fl fn Ufn p fX fU fcf IY fD N j fL fu If n fd fUN fX
+fuf bpBVfN fp jf Oc fA fu R
+uf b R fY dm fl cn S uf Nn fN L c YS fN nf nR fn fUf pf jf BD fU Yl Y fU fAf cNAjnN nR IfI fR UfL YPc fn fUf I
+IX fR fKU I RN Ufl fAf Kn uI UI u If Ufc uX nf
+fN Yp fp u f UP fUf X fb jf n pYpD fA Uf U fl uf
+Ufl fd pf Sf n fIf I
+YU Nl YfU AU fIX mhf YS fh
+l mY I RfU I fU fIf
+fIf c lf SA XI f UfU Y If
+Ufl mf pKU J
+H fd T uf m fU fAf uS
+hf HA fl I lf R lf O DLjIX fL K fK j UfU fj OlT cVLldS fUf nf
+fSf Yfl
+fl fSf Ll Pn fn UY fuf Df
+fUf pK fP fn l
+fI fl Uf RU fn jnu jf
+If IUf OfN l KUH Ss
+Uf lf N fr fUf L fe fq UfU
+fVf KH p fIf IXI fVf YV fR UA fI l
+u If N fcf l fL fUf
+wfO lK fcf qXI
+ubIc fYf K Ufn fS fR fI
+K fB c Y fS Y N S fY L fn Uf RU fY U IUf Yl uf cY fRf uI fI
+fS Y UfS fR Uf
+If l LN Uf IfuI
+XR fI fN YfN fS An
+If lK lK AU RU I
+uf n u
+ucP fU fj If dp lYcf UY fN SfL fu fI
+fcl U lY Vc YfU YU hUf DU
+I c fI fc K nf UfS pHm K fu fYc YPY V fUf IfU fU fIf xS j R IUf U lY N fAf If
+fU L K n H lI Suf SYc fUf D fUf
+UfU RfU fN KBjDIOfK O fRU N fYc lf
+fR fRf i Bj fU RU If YfN U hUf VU fa lf Xfl nK fY f uf UY p uS fU fYu fn fu Yf L fu
+fl fRU fp Y fn fI a Xf U n L l O Yc UI
+d fIf XfK fY fSf Ifd fV fm Kn If UfU D pl fIf Xf IfY fYu YS Vc Ufu
+Ufl Vf Hd fd fp Sfl DV fl fcf If
+fU c fS NnU fU n S num n fS fp jf c b NuY nf L fV
+fP Ufn fP fS If Df n fR NU fNSf DnA fUN A fP fSf H n uS Q fI fn fA nR fd SY fcf WA n Y U Sf
+R fL nj nf YS fN fu I
+fI fK R U fd fR fR fR fR fY fR X IfU fuf If cP fT fY l j lf Yl mf u UY fI
+fK UfU fRf a Xf Uf pj Y fD fj Y fHf c mfm Y fb fcl uf hXf
+fp fc Y fL fuf
+fBf Ufu fUf g LfUE fc f S If IX
+I fX fn I fN fu j Y SRr fU Y x nTS fRU fl fUf Y UY Ifd fcY uf h R
+K fl fUf UN UY fA jA fL Up K
+fl fU fN fU R UfU f DI
+X fU fHf Yl fL fD b UfU LN c fn fI
+Xf c fd n fn pK fSf DS fX
+uf NU P Ufn fUf H u nf uAb UAOA u U
+uf R pf m fR fn jf umN L N fxN Uf If tf
+fu fI fc fN
+fl If nD If H b fA fl fYf Ufl nR fc m fN IfVj fY fL pf D fcl UfS DULbmj fIf X fnS Yc Db KjKLl U Yu Y fYu hf
+fYf NS Ufl fL fL fL fN fSf KH fUf
+fOL fu hXf V Yu UfH K fAf lUl N n R cfA N fl I
+fp fUf l QjY fn fU fD Ufl fUc fUf h
+fn If LN fS lL pO fj fp fj fI Ufl
+IX fI U YfU fl plNmj n j Ufu l RfU nf h Vfd fI fR
+IfY fcf DS fX fU
+m fUf b fU fn UK
+fY fAf RN fUf X IUf
+If Ufl O Kf lK O AU hUf A p fl fS IU
+fl fu fn Ufu fS Yu
+Xf d YS fN L IfY fn UfU fuf Xf uI fm U fUf
+If Vl I fN U Df df D fYf n fh fX
+fY S fl V fl T lf nj Uf h Xfl fD Lf lLnU sf
+uI U I fl KfV fK R Ufn fI nI
+fYf UA fU L Un Kf UfL Un U fuf
+U fS V lV fSf
+fuU fRf j fu mR
+G uV UY fOp l fGu fRU fR UfU Rf Xf I fc Vf
+Ufl K U cU hI
+d mf Ll Lf Ufn NS n fu
+nf jf UfU n cf
+fX fHf N f l Sf uI
+IfK fS fU fN jnu fUf nf
+fj UpSfL u
+fU fp uS Y fL AP I n
+uf HU fu fuf L Df b A
+n LN S fl P fu fUf
+fU fSf W fu bY fu A
+fHf A RN fR If Yu Y lf
+fL fP fA u fS fYc NU R n Uf p I lI
+p Un fl VmSu fU u fIf
+nN fUf L fn fp uf
+Ifd K Y fY Q fUf L RL R fUf UI fYf K fL uGfa fI
+Xfl fl Df Ds fIf
+UE fm fHf V UI fh UfH fL fNSf
+fYf UA N fYf lf Ufn fUf Un fu fSf I
+Uf Su lXSml fU
+d Yld N L fnS I
+fl fc fUN nf j fRf
+fV l fR U pf uf N pf hf cU I fn pN fj fV fK
+IX fc U fI fU fk Yl bI Xfl d fN fIf Vfd fuf x DS fI
+fc IfU fN d nf jf
+Uf jf j fp fL SN
+fL PLNH SfL nf LSP fL jI fR fu fYf RLP fU Pf Y pu X fP Su If n fU fOL f O fn fuf juPA UI nf nf
+fIf dL fR VY fS fIf L fI Yfl fcf
+Uf AU fN m f UfU h fc fAf Df u fn jf
+fB U fN R d S fNSf Df u fU RU fI fB u fR XI fIX IXI fc Y IfU fR
+fBf Yfl fR fU RU If lN fU fc fR fI fu c fl Y U
+u If pf A fn fKU fKU fN Ufc Yu n uI
+fVf j fY lf hf
+VUjUm fS X Yl UfU h fU fUf
+fU T Sb fn fuf U
+fU fd fU fS Ufc fL Ym fu U fuf If
+fN X fY fUf
+RU cH UfL fL pIe fN fp UfU fN YS fI fIf
+fcl fRf cR Ufl fS IfY lf e Yu fI fD nf cf R
+fu SfL fn fj fS A fl Uf p UfU n up
+fu Sj Pn fL Uf n U uf P Y Uf N uO Uf
+Uf p Up fu
+Ufu Uf d fl fp If UA d fY R If Sm fI
+I NA fSf c UfH mYu fm fN f IUf P fU nf If lU IUf
+fAf R Ufl P u Y fS L j fN L fuf Yj fuf
+IDfH UY fU fcf Df jf UAf m If uf
+fn p n UAf NR fD u
+IfU d lI Uf d l d fU fl uf A fB Nn SIcfI lf V fU
+If n V fl fp KfuU N fn QN fl fI
+lf p fL U fSf U V
+fIf d Un fAf YkLRfG fY G fu n fp I
+f XUc fR fT fUf UfU Yf m fc Uf Y Im
+h fl fN UYc fj Sf Nn fVf
+fUf S uf D Kn
+fU S U m RfU p d L fI fBf Df IX fu l u Y fuf IY If
+fj pK S jf i IfI
+Ufn pScNO nf G Ufu SY fR L UY fl fUf
+If nf b Ll fD Uf Lfd n V fl fHf X ND Ufu fR fU IfK Ll d YG If A l uI
+fuf
+uX Uf V L KbR fl fl R f KH fh d pf n
+fc RfU A fN G fu l fu fu IfI
+fl fUf h fh
+X fd uL U If mf Yl P fU fl u UY fRU mf R fl
+Uf S P fP fd fAf NS p fSf u fAf
+n fp fl L nf uf
+fh fp S L RL fV fP fL fL uf
+fX fl nR L fU fYf IfY G fU fX cfA cjI Ufl fl Tj Ufn fc U I N s
+Iuj D fSf u fu fR UfH nf
+UfH fVf L fuf RU fU
+R fRf OR fL jm fVf Y IX fI XfK l uI fU INS
+I fHf H Df IfI Uf Ufc L UY IfU fSf I
+fX fH KmK L fN fA fn fRU V fS uf m DVIc fcf DejIfAu Ufu Ufl fVf h uX
+fL fl fl fU fA fUS
+IfI fR S fR eR n R fRU b UfS fN Ufc fI R IXI U fnS l fIX lI
+UfL fn Ufn uYu
+cf u nh
+Ufl u D bI fSf X
+c fHuK Of AU fK ASR I
+fP fN fG fu fuU
+I fc Uf LSP fU GU V UA fn fj
+fn fOp hUf K fu fn c V Yu U fOR fL S G If Yl m fL fI K SfL K Bp fI fl I nf n j fp Nj fU
+IUf IUf Yu K If u DS fKU jI fY IA fSf R If
+fU fVf N fGu fu Ll Suf Uj GNc f K Yf
+If RL fUf lYcf Yj fU
+Xf HU R nfNRD Sfl p jf Yld Yu fUf Afuh
+h fX fcf nf p lp fl Sf
+fYf pnr Yl UpSfL fd H fl fU
+X U fYf NnU fY IfU fd fI U
+fn jf C AU Sf Afuh If
+uf Yl SU p fL f
+fS Kf O fn fn hf
+Uf Eu fc b fx X fd RU RfU fD fI
+UY fRf lK fU hUf FR LK fYu Uf Uf
+h fL fSf q lf U fI
+I UI Ufc fSf Df Sf R UfU fU uf uI nf
+u fU L d fA n fl fU Rc fQ If A fYu O If UfH fj Uf Kf lYcf a fc fn fn fU fYc fuf nf If
+fS fY fR fU H fS p fu Ufn fY fRf IY Up fuf UI
+fn fl fL UE Yf L Yf uI
+IfI fY fu fd UA fX fS lf Uf
+fj fl fL fU N U fSf k fU fUf
+U Vfl f j fU fSf DNlu fS u
+O G lYcf u IfK lK R UfU fN K fR
+fcY c fU fN fp hI YlF fUf If UY fl
+fU l Y fn fYf cY IfuI c fn hf Yl OUcFRV IfU DU Kf U HL Sb fn fYc V fn
+fYc n RfU fR If IY fU fp fN lI n U YS X Y fU D fN fD U n Uf Yu fSf U Y fX U
+Xf UN lf r fY H fN cU fl BcBc fU fU fI
+fQ fYc fp fc U u Lu fR fUf NS N fS D AU fN fUN U fRU
+hf UfU mf d UfU uf Ufn AU Xf Ufu
+fp lY cR fn fR SY Sf RU R fR fA fI u nI U
+h fU fc U l fU fu Uf Ul fRf Sl U fL fI
+Ufl fH fVf Y Ufn D Ll R c fc fQ fA Sf If
+uf S fU u U fA uj uYu Yf
+pf YPc A fL fn U
+iupT fUf Y fX U
+P fu If XImUcUX fd h d bu UfH B U fUf X
+rRL fu G fP Uf R fN n u fS
+fu p fYf P uf Ap
+L fcl Uf BARfA u fSf nf u
+U RU fR fuf U fU Su Uf Sf A fI fSf R
+nDnD Kml Y fD U fL H fYu nf O m fl Un Uj U fYf If p If
+K UfU L fA fnS fIf uS j fn IX
+m fP Sfl fA fS fn Uf IUf
+X fcf p VY fn fcf U l
+IfU YS fU KUH fU SY uf hI
+fYc fI A fn fIf Yu fBf
+Ufn YS YfU fBf
+Ufu fp S Hp fAf n u
+l fHf UCpUu fL jf L cU Kf
+fUf lf eN Up hfpA fY fU
+If DU fY fR fRU p fR fYf g fUf u h
+Yu fR l fn fl fu fu
+n fj fU fl B Ufn Kd u fUN UfL RU
+bl fL fl fG UfU fA Uf
+IfI fuf Uf NR IfI Ufc fm fR DKU j lX U fA fN fn R
+fUN fc fVf U c b RENfSk u fU If Yu
+If HY m fKL fU KfV fUN fp jf Yl b Uf lf
+KP fVf IfU n U uf nf Ufu fu
+If lUdO V fU G fI Ufl fYf UfH j
+fVfV fN jlfl fYf Nfbfj
+fVfV fN jlfl fYf Nfbfj
+fY fI U fIf UfU p LG f Yf IfU Ncd fl fcf YfU fR
+fU fl Sf Ufc hf
+fYf L up Uk fu
+Ufl Uf eu fn PUW fu
+fIf K n fU fIf R lX fq fU fRf Uf uI fSf Uf
+XfK p Yu Yl u fU IfK fK L l fU pLb AU fRU lf A Rc fU c P
+nf IfU fNSf Un N fS fl S fUf d fL fUN UfU u fu fP fW fu fSf SY fp fK Ufu p Df P U
+Iu Yl Uf l fUf Gf U uf
+U If XfK Yf pHFl fu I fd Ll fYf h U
+fD Rc UY u T uf HbL Sfb fU L fUf n fI
+I lf dB n DUIR fKf nf Yl fL Q fn lK U kY fI fRf DU I Xf Ufu fI n fY Gm XfK fm I m fYf Nn YfU fuf Djl fK fAf UI mfm fl b fn IU fY fYf hI Xf Xf UY fp Uf I UfU fIf
+X fY fj c ln Uf sf i fS fS HR fYf r nf
+fIf pKU fl fS fu UfU d IU fK fU fYu b X fI fUN fSf d fG f RfU cU fR fn Uf X
+Xf FHlH Uf R dnfDdU fN d pK Y fN If NuY fY fN fl fUf UfU
+fn fS l L Sf Su fu fP uf NnU u fYf Y fu nf lS fU SfB nf u fu c
+If Yl Yl fc RfU cfV Yf pRm Up H fU IY fYf RfU fX fL fSf hXf p f Z fl c fRf j I fl YfU K UR XUc IX fg U IfuI fcf P U
+hf uf Yfl fSf p fVf O fYf KH U fIf hH fX
+fuf uI fc If L fL nf Iuj fYf c Sf D fR c Vc fR U Klr lI fKf uI fI fI fS R fN Df uS fUf RU IUf If jf
+Xf U fcl Q V fl VbpKDLIUP fA I Ufc fAf Sf a uI fSf XbfK Df l RL Kl dL Df Uf N fU jf h
+fK n fVfV fcf lf G fU phfl b fD Im fh
+n fU fVf N IY Ifd fl If B fRf RfU fUc NnU lX l fcf If c YfU j fX fIf Xf lY c fRf Yl n fR Up fIf
+w fA lZfDU YS fcl fUN Uf s fX
+fUc fn Y fR fn pf hf
+fU fd Pf Suf l fp fD fX du X
+fL Xu IfU fn K fIf UfU AU cR fh IU X fcf mf UY U Fdhb hI fl KA fUf UfU fl
+fK fK cKVmp fSf VfS RU Djl m fl Vfd fh Uf
+mf VY fR fUN RI fn fl If IXI U fcf umN fR fj If
+IfU fN fN B fp P N fL fuf uf
+UfL Fl fl SY ium If P fA X fAf Uf hf IfY UfU nf cU fYc l R lY I Ucd fl
+h fIf If u f nf Y P fcf SfULNR U n
+fSY fl A c Sfl Uf YfU fS pj Yc fL fU
+fSf U P fU L Ap U fe fUf ljL uf u SfB U fb fu
+uf Gfl fR fR fIf c Ap n fn fSf Sf np IfuI
+fUf SYc fUf Un u
+fU fL UfL fS q fSf nf U nf Ou Uf
+Uf K RU fA H UX fIf IfK fI Kd fS YfN Uf H n fU lK j lI UfH U RG fUf I
+HLr UfU fUf Uf
+fb U fl fb lfW fUf l fD fSf nIVfcl Uf cU fU RN fN cf pIh fU h YfU fN Df K
+I fc fU fVf Rd Yl IfY fR fn jI fl m fA Xf R fc Sh If
+Xfl fYu fn ID fK D nf bH fU D Ucd fc u Ufl b L fU DSA fN fN fl L YS Uf
+r Ufn fu l fN Lf Uf p fYf KfuU u fHf nf PUj cfA fU p nf
+UIHju fL fAf eAf
+uf Pf cU L fL fu fL fL u
+lf V c j Yu fYu Uf G Uf tU fuf
+Uu nf U fP L fu fuf P fU Suf P fl j fu fL fu U
+Df jf N fP fu
+UIHju fL fAf eAf
+n U NR n If P m fN U HL YPY fA Sf m fU fj fS fu nf
+fl fYu fBf U pf
+h fl jf HS YfU If
+I fYf k fn Ifd fR
+fYf c P c fIf hUO fR U fI Yc Ufu S
+Xf LV fUf KfV LD h
+fl fUf UfL fU fd uS fc Up c IX fn Un If cU IXI
+fI fS fc fu fSf l fU VU Df YfU fR fN fR N m fu U fR fx jlfl fc fuf x fl r fR fn lf
+fd fUf c D jf Ufc Np c fUf Yu
+U A cf Yu fYf UdUd NR fsIG
+fU fU fU fj fPS fU H fH GUD H
+fj UfU fUN Yu
+I fKU Kf O fl fu
+fAf N fI fN fR fN fc K fe fU c fj fuf K If
+IfY lOdAd Uf Yu fA Ufu
+e p fY l fR FR UFUlnjH Yl RfU
+fc L fl fU uf UAf UP fSf US uI Ufu fYf
+Ufl fHf sf H DU fA fI
+fn fI fj fh Xfl fp cY fX fSf RU X fN cfT V fl fHf R p
+_nstrings=xxx
+
+
+Segmented lexicon:
+- 130 fU
+- 107 fl
++ 103 U
+- 90 fn
+- 78 fu
+- 73 If
+- 73 fR
+- 71 Uf
+- 69 fUf
+- 68 fN
++ 62 n
+- 61 fI
+- 60 fL
++ 55 u
++ 52 L
+- 49 nf
+- 48 fS
++ 47 I
+- 46 uf
++ 45 Y
+- 45 fSf
++ 44 R
+- 42 fc
++ 42 c
++ 41 l
+- 40 UfU
++ 39 p
+- 38 fYf
++ 38 N
+- 38 fY
+- 34 fp
+- 34 fIf
+- 33 lf
+- 32 fA
+- 32 fuf
++ 31 K
++ 29 X
++ 28 d
+- 27 fcf
++ 26 j
+- 26 jf
++ 26 f
++ 25 h
+- 25 fX
+- 24 Ufl
++ 24 H
+- 24 Yu
+- 23 fj
++ 23 S
++ 22 P
+- 22 Xf
+- 22 fd
+- 22 Yl
+- 21 fAf
++ 21 V
++ 21 A
+- 20 Ufn
++ 20 m
+- 20 uI
+- 20 Ufu
+- 20 IfU
+- 19 RU
+- 19 UY
+- 18 YfU
+- 18 Df
++ 17 b
+- 17 Sf
+- 17 fRf
+- 16 fVf
++ 16 O
+- 16 fP
++ 15 D
+- 15 fh
+- 15 fD
+- 15 fK
+- 14 fHf
+- 14 pf
+- 13 Ufc
+- 13 AU
+- 13 RfU
+- 12 fYu
+- 12 fRU
+- 12 fUN
+- 12 IUf
++ 11 G
+- 11 hf
+- 11 YS
+- 11 IX
+- 11 UfL
+- 10 Yf
+- 10 cU
+- 10 UfH
+- 10 fYc
+- 10 UI
+- 9 lK
+- 9 IY
+- 9 IfY
+- 9 fcl
+- 9 uS
+- 9 IfI
+- 9 Un
+- 8 mf
+- 8 SY
+- 7 fKU
+- 7 lI
++ 7 B
+- 7 hI
+- 7 fm
+- 7 IXI
+- 7 Ll
+- 7 fBf
+- 7 Up
+- 7 cf
+- 7 Xfl
+- 7 Kf
+- 6 IfK
+- 6 fUc
+- 6 hUf
+- 6 fnS
+- 6 XfK
++ 6 Q
+- 6 UA
+- 5 IfuI
+- 5 Suf
+- 5 DU
+- 5 NR
+- 5 nR
+- 5 Yc
+- 5 YfN
+- 5 Vc
+- 5 lY
+- 5 Yfl
+- 5 fb
+- 5 UfS
++ 5 a
+- 5 Sfl
+- 5 Ifd
+- 5 SfL
+- 5 fV
+- 5 UL
+- 5 KH
+- 5 fe
+- 4 UAf
+- 4 NnU
+- 4 lYcf
+- 4 LN
+- 4 fVfV
+- 4 Ap
+- 4 NS
+- 4 cY
+- 4 Rc
+- 4 RL
+- 4 Su
+- 4 fQ
+- 4 RN
+- 4 cR
+- 4 Nn
++ 4 r
+- 4 KfV
+- 4 IU
+- 4 fB
+- 4 hXf
+- 4 DS
+- 4 pK
+- 4 fNSf
++ 4 T
+- 3 KfuU
+- 3 NA
++ 3 i
+- 3 Pf
+- 3 pj
+- 3 fuU
+- 3 HU
+- 3 fH
+- 3 jlfl
+- 3 fG
+- 3 lX
+- 3 Vfd
+- 3 fIX
++ 3 x
+- 3 HL
+- 3 cfA
+- 3 uX
+- 3 Kn
+- 3 NU
+- 3 uYu
+- 3 jI
+- 3 fcY
+- 3 bl
+- 3 Lf
+- 3 sf
+- 3 fKf
+- 3 fT
+- 3 Of
+- 3 VY
+- 3 fKL
+- 3 Yj
+- 2 YPc
+- 2 Yld
+- 2 nj
+- 2 NuY
+- 2 Vf
+- 2 Uj
++ 2 s
+- 2 eAf
+- 2 SU
+- 2 mfm
++ 2 g
+- 2 UE
+- 2 UN
+- 2 YPY
+- 2 LSP
+- 2 UpSfL
+- 2 fOL
+- 2 dL
+- 2 YU
+- 2 jnu
+- 2 HS
+- 2 up
++ 2 e
+- 2 Sb
+- 2 nI
+- 2 mR
+- 2 phfl
+- 2 ASR
+- 2 UK
+- 2 UP
+- 2 VU
+- 2 XI
+- 2 Nfbfj
+- 2 Im
+- 2 XUc
+- 2 uO
+- 2 KUH
+- 2 bI
+- 2 fGu
+- 2 Iuj
+- 2 umN
+- 2 DUIR
+- 2 uV
+- 2 Pn
+- 2 fx
+- 2 SYc
+- 2 Kd
+- 2 Djl
+- 2 Sh
+- 2 Sfb
+- 2 lN
++ 2 C
+- 2 Afuh
+- 2 pIh
+- 2 mY
+- 2 Rf
+- 2 fOp
+- 2 SfB
+- 2 HR
+- 2 Ucd
+- 2 FR
+- 2 pKU
++ 2 q
+- 2 fq
+- 2 cfV
+- 2 lS
++ 2 w
+- 2 clS
+- 2 UIHju
++ 2 k
++ 2 J
+- 1 Iu
+- 1 Gm
+- 1 pIe
+- 1 pLb
+- 1 eu
+- 1 UX
+- 1 uAb
+- 1 UAOA
+- 1 ln
+- 1 fxN
+- 1 tf
+- 1 IA
+- 1 IfVj
+- 1 cKVmp
+- 1 dnfDdU
+- 1 lLnU
+- 1 lUl
+- 1 QjY
+- 1 Gf
+- 1 Vl
+- 1 pRm
+- 1 Yil
++ 1 Z
+- 1 Xu
+- 1 XImUcUX
+- 1 iupT
+- 1 PUW
+- 1 uj
+- 1 KBjDIOfK
+- 1 pHm
+- 1 bu
+- 1 Sl
+- 1 OUcFRV
+- 1 IDfH
+- 1 dp
+- 1 YlF
+- 1 DI
+- 1 FHlH
+- 1 Ic
+- 1 LG
+- 1 lUdO
+- 1 DNlu
+- 1 cP
+- 1 HY
+- 1 RENfSk
+- 1 Klr
+- 1 RI
+- 1 Uk
+- 1 ND
+- 1 DnA
+- 1 UCpUu
+- 1 BARfA
+- 1 rRL
+- 1 DV
+- 1 Hd
+- 1 YkLRfG
+- 1 uL
+- 1 UYc
+- 1 KbR
+- 1 fsIG
+- 1 nDnD
+- 1 UdUd
+- 1 Np
+- 1 PUj
+- 1 fPS
+- 1 GU
+- 1 OlT
+- 1 LD
+- 1 SIcfI
+- 1 SN
+- 1 lU
+- 1 Sm
+- 1 Sj
+- 1 pl
+- 1 cfT
+- 1 Nj
+- 1 fHuK
+- 1 eR
+- 1 fUS
+- 1 UFUlnjH
+- 1 hH
+- 1 DejIfAu
+- 1 dB
+- 1 uOfLfv
+- 1 DVIc
+- 1 SRr
+- 1 KmK
+- 1 OR
+- 1 INS
+- 1 plNmj
+- 1 Kl
+- 1 ium
+- 1 pScNO
+- 1 VmSu
++ 1 W
+- 1 Fl
+- 1 AP
+- 1 KA
+- 1 Fdhb
+- 1 ljL
+- 1 XbfK
+- 1 QN
+- 1 KP
+- 1 lV
+- 1 Vfl
+- 1 fg
+- 1 UR
+- 1 jA
+- 1 hUO
+- 1 DSA
+- 1 cH
+- 1 Ym
+- 1 bH
+- 1 nIVfcl
+- 1 lfW
+- 1 juPA
+- 1 fYU
+- 1 pu
+- 1 Ou
+- 1 bY
+- 1 ID
+- 1 PLNH
+- 1 pN
+- 1 Gfl
+- 1 Bj
+- 1 bpBVfN
+- 1 DKU
+- 1 Db
+- 1 nN
+- 1 nD
+- 1 DfHK
+- 1 fOR
+- 1 fSY
+- 1 lXSml
+- 1 Hp
+- 1 An
+- 1 lZfDU
+- 1 nux
+- 1 OfN
+- 1 cn
+- 1 BcBc
+- 1 SA
+- 1 YV
+- 1 np
+- 1 ufj
+- 1 jPY
+- 1 nfNRD
+- 1 jhIY
+- 1 lL
+- 1 Qc
+- 1 Uu
+- 1 lOdAd
+- 1 kY
+- 1 UHk
+- 1 Rd
+- 1 SP
+- 1 Lu
+- 1 num
+- 1 LS
+- 1 pO
+- 1 RfF
+- 1 tU
+- 1 Ncd
+- 1 GUD
+- 1 Tj
+- 1 RLP
+- 1 cfN
+- 1 xS
+- 1 HN
+- 1 pRf
+- 1 cjI
+- 1 lp
+- 1 KjKLl
+- 1 Dc
+- 1 DULbmj
+- 1 PNY
+- 1 pHFl
+- 1 jk
+- 1 BD
+- 1 Ds
+- 1 LfUE
+- 1 bfsXlmu
+- 1 nK
+- 1 PH
+- 1 SfULNR
+- 1 VUjUm
+- 1 jm
+- 1 fW
+- 1 Kml
++ 1 t
+- 1 nh
+- 1 cNAjnN
+- 1 nTS
+- 1 cVLldS
+- 1 Yp
+- 1 hfpA
+- 1 Bp
+- 1 pYpD
+- 1 WA
+- 1 mhf
+- 1 Nl
+- 1 xX
+- 1 US
+- 1 HA
+- 1 nDj
+- 1 DLjIX
+- 1 aJ
+- 1 GNc
+- 1 pnr
+- 1 RG
+- 1 LV
+- 1 Ul
+- 1 Eu
+- 1 VbpKDLIUP
+- 1 LK
+- 1 fr
+- 1 VfS
+- 1 wfO
+- 1 qXI
+- 1 mYu
+- 1 HbL
+- 1 jRf
+- 1 YG
+- 1 Ss
+- 1 HLr
+- 1 eVKnm
+- 1 IV
+- 1 Lfd
+- 1 XR
+- 1 pd
+- 1 fk
+- 1 eN
+- 1 uGfa
+- 1 Hj
+- 1 du
+- 1 SV
+- 1 ubIc
+- 1 bYl
+- 1 OV
+- 1 KfemYX
+- 1 df
+- 1 xfn
+- 1 UDc
+- 1 mlL
+- 1 lYd
+- 1 fUlj
+- 1 Oc
+- 1 dm
+- 1 fa
+- 1 ucP
+- 1 nKgTf
+- 1 ljS
+
+Total words of each length (token/type): 
+1: 974 (24.8978%) / 45 (8.65385%)
+2: 2002 (51.1759%) / 251 (48.2692%)
+3: 840 (21.4724%) / 151 (29.0385%)
+4: 57 (1.45706%) / 37 (7.11538%)
+5: 21 (0.53681%) / 18 (3.46154%)
+6: 12 (0.306748%) / 12 (2.30769%)
+7: 4 (0.102249%) / 4 (0.769231%)
+8: 1 (0.0255624%) / 1 (0.192308%)
+9: 1 (0.0255624%) / 1 (0.192308%)
+Average word length: 2.0317 / 2.60577
+
+Total segmented lexicon types: 520
+Total segmented lexicon tokens: 3912
+
+Reference lexicon summary:
+
+Total words of each length (token/type): 
+1: 7948 (100%) / 48 (100%)
+Average word length: 1 / 1
+
+Segmented lexicon summary:
+
+Total words of each length (token/type): 
+1: 974 (24.8978%) / 45 (8.65385%)
+2: 2002 (51.1759%) / 251 (48.2692%)
+3: 840 (21.4724%) / 151 (29.0385%)
+4: 57 (1.45706%) / 37 (7.11538%)
+5: 21 (0.53681%) / 18 (3.46154%)
+6: 12 (0.306748%) / 12 (2.30769%)
+7: 4 (0.102249%) / 4 (0.769231%)
+8: 1 (0.0255624%) / 1 (0.192308%)
+9: 1 (0.0255624%) / 1 (0.192308%)
+Average word length: 2.0317 / 2.60577
+
+P 24.9 R 12.25 F 16.42 BP 100 BR 47.02 BF 63.96 LP 8.654 LR 93.75 LF 15.85
+p_cont=0.915453, log prob = -27242.8
