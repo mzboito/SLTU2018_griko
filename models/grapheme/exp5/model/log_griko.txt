@@ -1,0 +1,287 @@
+05/22 19:38:01 label: griko best setup 1
+05/22 19:38:01 description:
+  temp = 1
+05/22 19:38:01 /home/getalp/zanonbom/seq2seq/translate/__main__.py ../griko_experiments/IT-GR/exp1/config.yaml --train -v
+05/22 19:38:02 commit hash d7914bbb0f1dc22438de0e15b82ebec43e0614ff
+05/22 19:38:02 tensorflow version: 1.2.0-rc1
+05/22 19:38:02 program arguments
+05/22 19:38:02   aggregation_method   'concat'
+05/22 19:38:02   align_encoder_id     0
+05/22 19:38:02   allow_growth         True
+05/22 19:38:02   attention_type       'global'
+05/22 19:38:02   attn_filter_length   0
+05/22 19:38:02   attn_filters         0
+05/22 19:38:02   attn_prev_word       False
+05/22 19:38:02   attn_size            12
+05/22 19:38:02   attn_temperature     1
+05/22 19:38:02   attn_window_size     0
+05/22 19:38:02   average              False
+05/22 19:38:02   baseline_activation  None
+05/22 19:38:02   baseline_learning_rate 0.001
+05/22 19:38:02   baseline_optimizer   'adam'
+05/22 19:38:02   baseline_steps       0
+05/22 19:38:02   batch_mode           'standard'
+05/22 19:38:02   batch_size           32
+05/22 19:38:02   beam_size            1
+05/22 19:38:02   bidir                True
+05/22 19:38:02   bidir_projection     False
+05/22 19:38:02   binary               False
+05/22 19:38:02   cell_size            12
+05/22 19:38:02   cell_type            'LSTM'
+05/22 19:38:02   character_level      False
+05/22 19:38:02   checkpoints          []
+05/22 19:38:02   conditional_rnn      False
+05/22 19:38:02   config               '../griko_experiments/IT-GR/exp1/config.yaml'
+05/22 19:38:02   convolutions         None
+05/22 19:38:02   data_dir             '../griko_experiments/IT-GR/files/'
+05/22 19:38:02   debug                False
+05/22 19:38:02   decay_after_n_epoch  0
+05/22 19:38:02   decay_every_n_epoch  None
+05/22 19:38:02   decay_if_no_progress None
+05/22 19:38:02   decoders             [{'name': 'gr'}]
+05/22 19:38:02   description          'temp = 1'
+05/22 19:38:02   dev_prefix           ['dev', 'train']
+05/22 19:38:02   embedding_dropout    0.0
+05/22 19:38:02   embedding_initializer None
+05/22 19:38:02   embedding_size       12
+05/22 19:38:02   embedding_weight_scale None
+05/22 19:38:02   encoders             [{'name': 'it'}]
+05/22 19:38:02   ensemble             False
+05/22 19:38:02   eval_burn_in         0
+05/22 19:38:02   feed_previous        0.0
+05/22 19:38:02   final_state          'last'
+05/22 19:38:02   freeze_variables     []
+05/22 19:38:02   generate_first       True
+05/22 19:38:02   gpu_id               0
+05/22 19:38:02   highway_layers       0
+05/22 19:38:02   initial_state_dropout 0.5
+05/22 19:38:02   initializer          None
+05/22 19:38:02   input_layer_dropout  0.0
+05/22 19:38:02   input_layers         None
+05/22 19:38:02   keep_best            4
+05/22 19:38:02   keep_every_n_hours   0
+05/22 19:38:02   label                'griko best setup 1'
+05/22 19:38:02   layer_norm           False
+05/22 19:38:02   layers               1
+05/22 19:38:02   learning_rate        0.001
+05/22 19:38:02   learning_rate_decay_factor 1.0
+05/22 19:38:02   len_normalization    1.0
+05/22 19:38:02   log_file             'log_griko.txt'
+05/22 19:38:02   loss_function        'xent'
+05/22 19:38:02   max_dev_size         0
+05/22 19:38:02   max_epochs           0
+05/22 19:38:02   max_gradient_norm    5.0
+05/22 19:38:02   max_len              128
+05/22 19:38:02   max_steps            150000
+05/22 19:38:02   max_test_size        0
+05/22 19:38:02   max_to_keep          1
+05/22 19:38:02   max_train_size       0
+05/22 19:38:02   maxout_stride        None
+05/22 19:38:02   mem_fraction         1.0
+05/22 19:38:02   min_learning_rate    1e-06
+05/22 19:38:02   model_dir            '../griko_experiments/IT-GR/exp1/model/'
+05/22 19:38:02   moving_average       None
+05/22 19:38:02   no_gpu               False
+05/22 19:38:02   optimizer            'adam'
+05/22 19:38:02   orthogonal_init      False
+05/22 19:38:02   output               None
+05/22 19:38:02   output_dropout       0.0
+05/22 19:38:02   parallel_iterations  16
+05/22 19:38:02   pervasive_dropout    False
+05/22 19:38:02   pooling_avg          True
+05/22 19:38:02   post_process_script  None
+05/22 19:38:02   pred_deep_layer      False
+05/22 19:38:02   pred_edits           False
+05/22 19:38:02   pred_embed_proj      False
+05/22 19:38:02   pred_maxout_layer    True
+05/22 19:38:02   purge                False
+05/22 19:38:02   raw_output           False
+05/22 19:38:02   read_ahead           10
+05/22 19:38:02   reconstruction_attn_weight 0.05
+05/22 19:38:02   reconstruction_decoders False
+05/22 19:38:02   reconstruction_weight 1.0
+05/22 19:38:02   reinforce_after_n_epoch None
+05/22 19:38:02   remove_unk           False
+05/22 19:38:02   reverse              False
+05/22 19:38:02   reverse_input        False
+05/22 19:38:02   reward_function      'sentence_bleu'
+05/22 19:38:02   rnn_feed_attn        True
+05/22 19:38:02   rnn_input_dropout    0.5
+05/22 19:38:02   rnn_output_dropout   0.0
+05/22 19:38:02   rnn_state_dropout    0.0
+05/22 19:38:02   save                 False
+05/22 19:38:02   score_function       'corpus_bleu'
+05/22 19:38:02   score_functions      ['bleu', 'loss']
+05/22 19:38:02   script_dir           'scripts'
+05/22 19:38:02   sgd_after_n_epoch    None
+05/22 19:38:02   sgd_learning_rate    1.0
+05/22 19:38:02   shuffle              True
+05/22 19:38:02   softmax_temperature  1.0
+05/22 19:38:02   steps_per_checkpoint 10000
+05/22 19:38:02   steps_per_eval       10000
+05/22 19:38:02   swap_memory          True
+05/22 19:38:02   tie_embeddings       False
+05/22 19:38:02   time_pooling         None
+05/22 19:38:02   train                True
+05/22 19:38:02   train_initial_states True
+05/22 19:38:02   train_prefix         'train'
+05/22 19:38:02   truncate_lines       True
+05/22 19:38:02   update_first         False
+05/22 19:38:02   use_baseline         False
+05/22 19:38:02   use_dropout          True
+05/22 19:38:02   use_lstm             True
+05/22 19:38:02   use_lstm_full_state  False
+05/22 19:38:02   use_previous_word    True
+05/22 19:38:02   verbose              True
+05/22 19:38:02   vocab_prefix         'vocab'
+05/22 19:38:02   weight_scale         0.1
+05/22 19:38:02   word_dropout         0.0
+05/22 19:38:02 python random seed: 4450598036732155648
+05/22 19:38:02 tf random seed:     6812161170254597733
+05/22 19:38:02 creating model
+05/22 19:38:02 using device: /gpu:0
+05/22 19:38:02 copying vocab to ../griko_experiments/IT-GR/exp1/model/data/vocab.it
+05/22 19:38:02 copying vocab to ../griko_experiments/IT-GR/exp1/model/data/vocab.gr
+05/22 19:38:02 reading vocabularies
+05/22 19:38:02 creating model
+05/22 19:38:09 model parameters (27)
+05/22 19:38:09   baseline_step:0 ()
+05/22 19:38:09   decoder_gr/attention_it/U_a/kernel:0 (24, 12)
+05/22 19:38:09   decoder_gr/attention_it/W_a/bias:0 (12,)
+05/22 19:38:09   decoder_gr/attention_it/W_a/kernel:0 (12, 12)
+05/22 19:38:09   decoder_gr/attention_it/v_a:0 (12,)
+05/22 19:38:09   decoder_gr/basic_lstm_cell/bias:0 (48,)
+05/22 19:38:09   decoder_gr/basic_lstm_cell/kernel:0 (48, 48)
+05/22 19:38:09   decoder_gr/it/initial_state_projection/bias:0 (24,)
+05/22 19:38:09   decoder_gr/it/initial_state_projection/kernel:0 (12, 24)
+05/22 19:38:09   decoder_gr/maxout/bias:0 (12,)
+05/22 19:38:09   decoder_gr/maxout/kernel:0 (48, 12)
+05/22 19:38:09   decoder_gr/softmax1/bias:0 (43,)
+05/22 19:38:09   decoder_gr/softmax1/kernel:0 (6, 43)
+05/22 19:38:09   embedding_gr:0 (43, 12)
+05/22 19:38:09   embedding_it:0 (439, 12)
+05/22 19:38:09   encoder_it/initial_state_bw:0 (24,)
+05/22 19:38:09   encoder_it/initial_state_fw:0 (24,)
+05/22 19:38:09   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/bias:0 (48,)
+05/22 19:38:09   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/kernel:0 (24, 48)
+05/22 19:38:09   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/bias:0 (48,)
+05/22 19:38:09   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/kernel:0 (24, 48)
+05/22 19:38:09   global_step:0 ()
+05/22 19:38:09   initial_state_keep_prob:0 ()
+05/22 19:38:09   initial_state_keep_prob_1:0 ()
+05/22 19:38:09   learning_rate:0 ()
+05/22 19:38:09   rnn_input_keep_prob:0 ()
+05/22 19:38:09   rnn_input_keep_prob_1:0 ()
+05/22 19:38:09 number of parameters: 0.01M
+05/22 19:38:13 global step: 0
+05/22 19:38:13 baseline step: 0
+05/22 19:38:13 reading training data
+05/22 19:38:13 total line count: 297
+05/22 19:38:13 files: ../griko_experiments/IT-GR/files/train.it ../griko_experiments/IT-GR/files/train.gr
+05/22 19:38:13 lines reads: 297
+05/22 19:38:13 reading development data
+05/22 19:38:13 files: ../griko_experiments/IT-GR/files/dev.it ../griko_experiments/IT-GR/files/dev.gr
+05/22 19:38:13 lines reads: 33
+05/22 19:38:13 files: ../griko_experiments/IT-GR/files/train.it ../griko_experiments/IT-GR/files/train.gr
+05/22 19:38:13 lines reads: 297
+05/22 19:38:14 starting training
+05/22 20:17:27 step 10000 epoch 1078 learning rate 0.001 step-time 0.234 loss 80.674
+05/22 20:17:27 starting evaluation
+05/22 20:17:28 dev bleu=13.29 loss=73.20 penalty=0.970 ratio=0.971
+05/22 20:17:33 train bleu=15.49 loss=57.09 penalty=0.947 ratio=0.948
+05/22 20:17:33 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/22 20:17:34 finished saving model
+05/22 20:17:34 new best model
+05/22 20:56:38 step 20000 epoch 2155 learning rate 0.001 step-time 0.233 loss 68.548
+05/22 20:56:38 starting evaluation
+05/22 20:56:39 dev bleu=15.64 loss=73.54 penalty=0.978 ratio=0.979
+05/22 20:56:45 train bleu=20.33 loss=50.44 penalty=0.983 ratio=0.983
+05/22 20:56:45 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/22 20:56:45 finished saving model
+05/22 20:56:45 new best model
+05/22 21:35:50 step 30000 epoch 3233 learning rate 0.001 step-time 0.233 loss 64.775
+05/22 21:35:51 starting evaluation
+05/22 21:35:51 dev bleu=16.76 loss=75.30 penalty=0.990 ratio=0.990
+05/22 21:35:57 train bleu=23.42 loss=47.46 penalty=0.996 ratio=0.996
+05/22 21:35:57 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/22 21:35:57 finished saving model
+05/22 21:35:57 new best model
+05/22 22:15:06 step 40000 epoch 4310 learning rate 0.001 step-time 0.233 loss 62.948
+05/22 22:15:07 starting evaluation
+05/22 22:15:07 dev bleu=16.25 loss=76.66 penalty=1.000 ratio=1.008
+05/22 22:15:13 train bleu=23.38 loss=45.83 penalty=1.000 ratio=1.005
+05/22 22:15:13 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/22 22:15:13 finished saving model
+05/22 22:54:21 step 50000 epoch 5388 learning rate 0.001 step-time 0.233 loss 61.764
+05/22 22:54:21 starting evaluation
+05/22 22:54:22 dev bleu=17.05 loss=77.79 penalty=1.000 ratio=1.021
+05/22 22:54:28 train bleu=24.40 loss=44.94 penalty=0.997 ratio=0.997
+05/22 22:54:28 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/22 22:54:28 finished saving model
+05/22 22:54:28 new best model
+05/22 23:33:36 step 60000 epoch 6465 learning rate 0.001 step-time 0.233 loss 60.864
+05/22 23:33:36 starting evaluation
+05/22 23:33:37 dev bleu=17.13 loss=78.21 penalty=1.000 ratio=1.007
+05/22 23:33:42 train bleu=24.64 loss=44.22 penalty=0.966 ratio=0.967
+05/22 23:33:43 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/22 23:33:43 finished saving model
+05/22 23:33:43 new best model
+05/23 00:12:52 step 70000 epoch 7543 learning rate 0.001 step-time 0.233 loss 60.208
+05/23 00:12:52 starting evaluation
+05/23 00:12:53 dev bleu=15.41 loss=79.16 penalty=1.000 ratio=1.058
+05/23 00:12:58 train bleu=25.32 loss=43.69 penalty=0.984 ratio=0.984
+05/23 00:12:58 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 00:12:59 finished saving model
+05/23 00:52:08 step 80000 epoch 8620 learning rate 0.001 step-time 0.234 loss 59.597
+05/23 00:52:08 starting evaluation
+05/23 00:52:09 dev bleu=16.40 loss=79.55 penalty=0.951 ratio=0.952
+05/23 00:52:15 train bleu=24.29 loss=43.30 penalty=0.975 ratio=0.975
+05/23 00:52:15 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 00:52:15 finished saving model
+05/23 01:31:26 step 90000 epoch 9697 learning rate 0.001 step-time 0.234 loss 59.104
+05/23 01:31:26 starting evaluation
+05/23 01:31:27 dev bleu=18.17 loss=79.54 penalty=1.000 ratio=1.014
+05/23 01:31:32 train bleu=24.38 loss=43.10 penalty=1.000 ratio=1.003
+05/23 01:31:32 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 01:31:33 finished saving model
+05/23 01:31:33 new best model
+05/23 02:10:44 step 100000 epoch 10775 learning rate 0.001 step-time 0.234 loss 58.686
+05/23 02:10:44 starting evaluation
+05/23 02:10:45 dev bleu=16.91 loss=80.36 penalty=0.978 ratio=0.979
+05/23 02:10:50 train bleu=25.17 loss=42.71 penalty=0.996 ratio=0.996
+05/23 02:10:50 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 02:10:51 finished saving model
+05/23 02:50:04 step 110000 epoch 11852 learning rate 0.001 step-time 0.234 loss 58.261
+05/23 02:50:04 starting evaluation
+05/23 02:50:05 dev bleu=16.38 loss=80.73 penalty=0.972 ratio=0.973
+05/23 02:50:11 train bleu=24.80 loss=42.69 penalty=0.967 ratio=0.967
+05/23 02:50:11 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 02:50:11 finished saving model
+05/23 03:29:14 step 120000 epoch 12930 learning rate 0.001 step-time 0.233 loss 57.933
+05/23 03:29:14 starting evaluation
+05/23 03:29:14 dev bleu=12.83 loss=80.31 penalty=0.861 ratio=0.869
+05/23 03:29:20 train bleu=24.99 loss=42.17 penalty=0.983 ratio=0.983
+05/23 03:29:20 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 03:29:20 finished saving model
+05/23 04:08:31 step 130000 epoch 14007 learning rate 0.001 step-time 0.234 loss 57.589
+05/23 04:08:31 starting evaluation
+05/23 04:08:32 dev bleu=15.12 loss=80.60 penalty=0.944 ratio=0.945
+05/23 04:08:37 train bleu=24.62 loss=42.00 penalty=0.971 ratio=0.971
+05/23 04:08:37 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 04:08:38 finished saving model
+05/23 04:47:46 step 140000 epoch 15085 learning rate 0.001 step-time 0.233 loss 57.300
+05/23 04:47:46 starting evaluation
+05/23 04:47:47 dev bleu=16.21 loss=80.77 penalty=0.998 ratio=0.998
+05/23 04:47:52 train bleu=25.47 loss=41.82 penalty=0.969 ratio=0.969
+05/23 04:47:52 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 04:47:53 finished saving model
+05/23 05:27:13 step 150000 epoch 16162 learning rate 0.001 step-time 0.235 loss 57.035
+05/23 05:27:13 starting evaluation
+05/23 05:27:14 dev bleu=14.89 loss=81.26 penalty=1.000 ratio=1.119
+05/23 05:27:20 train bleu=26.24 loss=41.89 penalty=1.000 ratio=1.000
+05/23 05:27:20 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 05:27:20 finished saving model
+05/23 05:27:20 finished training
+05/23 05:27:20 exiting...
+05/23 05:27:20 saving model to ../griko_experiments/IT-GR/exp1/model/checkpoints
+05/23 05:27:20 finished saving model
