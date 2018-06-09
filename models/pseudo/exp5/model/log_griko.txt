@@ -1,0 +1,468 @@
+05/30 02:27:17 label: griko best setup 1
+05/30 02:27:17 description:
+  temp = 1
+05/30 02:27:17 /home/getalp/zanonbom/seq2seq/translate/__main__.py ../griko_experiments/attentional/pseudo/exp1/config.yaml --train -v
+05/30 02:27:18 commit hash d7914bbb0f1dc22438de0e15b82ebec43e0614ff
+05/30 02:27:18 tensorflow version: 1.2.0-rc1
+05/30 02:27:18 program arguments
+05/30 02:27:18   aggregation_method   'concat'
+05/30 02:27:18   align_encoder_id     0
+05/30 02:27:18   allow_growth         True
+05/30 02:27:18   attention_type       'global'
+05/30 02:27:18   attn_filter_length   0
+05/30 02:27:18   attn_filters         0
+05/30 02:27:18   attn_prev_word       False
+05/30 02:27:18   attn_size            12
+05/30 02:27:18   attn_temperature     1
+05/30 02:27:18   attn_window_size     0
+05/30 02:27:18   average              False
+05/30 02:27:18   baseline_activation  None
+05/30 02:27:18   baseline_learning_rate 0.001
+05/30 02:27:18   baseline_optimizer   'adam'
+05/30 02:27:18   baseline_steps       0
+05/30 02:27:18   batch_mode           'standard'
+05/30 02:27:18   batch_size           32
+05/30 02:27:18   beam_size            1
+05/30 02:27:18   bidir                True
+05/30 02:27:18   bidir_projection     False
+05/30 02:27:18   binary               False
+05/30 02:27:18   cell_size            12
+05/30 02:27:18   cell_type            'LSTM'
+05/30 02:27:18   character_level      False
+05/30 02:27:18   checkpoints          []
+05/30 02:27:18   conditional_rnn      False
+05/30 02:27:18   config               '../griko_experiments/attentional/pseudo/exp1/config.yaml'
+05/30 02:27:18   convolutions         None
+05/30 02:27:18   data_dir             '../griko_experiments/attentional/pseudo/files/'
+05/30 02:27:18   debug                False
+05/30 02:27:18   decay_after_n_epoch  0
+05/30 02:27:18   decay_every_n_epoch  None
+05/30 02:27:18   decay_if_no_progress None
+05/30 02:27:18   decoders             [{'name': 'gr'}]
+05/30 02:27:18   description          'temp = 1'
+05/30 02:27:18   dev_prefix           ['dev', 'train']
+05/30 02:27:18   embedding_dropout    0.0
+05/30 02:27:18   embedding_initializer None
+05/30 02:27:18   embedding_size       12
+05/30 02:27:18   embedding_weight_scale None
+05/30 02:27:18   encoders             [{'name': 'it'}]
+05/30 02:27:18   ensemble             False
+05/30 02:27:18   eval_burn_in         0
+05/30 02:27:18   feed_previous        0.0
+05/30 02:27:18   final_state          'last'
+05/30 02:27:18   freeze_variables     []
+05/30 02:27:18   generate_first       True
+05/30 02:27:18   gpu_id               0
+05/30 02:27:18   highway_layers       0
+05/30 02:27:18   initial_state_dropout 0.5
+05/30 02:27:18   initializer          None
+05/30 02:27:18   input_layer_dropout  0.0
+05/30 02:27:18   input_layers         None
+05/30 02:27:18   keep_best            4
+05/30 02:27:18   keep_every_n_hours   0
+05/30 02:27:18   label                'griko best setup 1'
+05/30 02:27:18   layer_norm           False
+05/30 02:27:18   layers               1
+05/30 02:27:18   learning_rate        0.001
+05/30 02:27:18   learning_rate_decay_factor 1.0
+05/30 02:27:18   len_normalization    1.0
+05/30 02:27:18   log_file             'log_griko.txt'
+05/30 02:27:18   loss_function        'xent'
+05/30 02:27:18   max_dev_size         0
+05/30 02:27:18   max_epochs           0
+05/30 02:27:18   max_gradient_norm    5.0
+05/30 02:27:18   max_len              128
+05/30 02:27:18   max_steps            150000
+05/30 02:27:18   max_test_size        0
+05/30 02:27:18   max_to_keep          1
+05/30 02:27:18   max_train_size       0
+05/30 02:27:18   maxout_stride        None
+05/30 02:27:18   mem_fraction         1.0
+05/30 02:27:18   min_learning_rate    1e-06
+05/30 02:27:18   model_dir            '../griko_experiments/attentional/pseudo/exp1/model/'
+05/30 02:27:18   moving_average       None
+05/30 02:27:18   no_gpu               False
+05/30 02:27:18   optimizer            'adam'
+05/30 02:27:18   orthogonal_init      False
+05/30 02:27:18   output               None
+05/30 02:27:18   output_dropout       0.0
+05/30 02:27:18   parallel_iterations  16
+05/30 02:27:18   pervasive_dropout    False
+05/30 02:27:18   pooling_avg          True
+05/30 02:27:18   post_process_script  None
+05/30 02:27:18   pred_deep_layer      False
+05/30 02:27:18   pred_edits           False
+05/30 02:27:18   pred_embed_proj      False
+05/30 02:27:18   pred_maxout_layer    True
+05/30 02:27:18   purge                False
+05/30 02:27:18   raw_output           False
+05/30 02:27:18   read_ahead           10
+05/30 02:27:18   reconstruction_attn_weight 0.05
+05/30 02:27:18   reconstruction_decoders False
+05/30 02:27:18   reconstruction_weight 1.0
+05/30 02:27:18   reinforce_after_n_epoch None
+05/30 02:27:18   remove_unk           False
+05/30 02:27:18   reverse              False
+05/30 02:27:18   reverse_input        False
+05/30 02:27:18   reward_function      'sentence_bleu'
+05/30 02:27:18   rnn_feed_attn        True
+05/30 02:27:18   rnn_input_dropout    0.5
+05/30 02:27:18   rnn_output_dropout   0.0
+05/30 02:27:18   rnn_state_dropout    0.0
+05/30 02:27:18   save                 False
+05/30 02:27:18   score_function       'corpus_bleu'
+05/30 02:27:18   score_functions      ['bleu', 'loss']
+05/30 02:27:18   script_dir           'scripts'
+05/30 02:27:18   sgd_after_n_epoch    None
+05/30 02:27:18   sgd_learning_rate    1.0
+05/30 02:27:18   shuffle              True
+05/30 02:27:18   softmax_temperature  1.0
+05/30 02:27:18   steps_per_checkpoint 10000
+05/30 02:27:18   steps_per_eval       10000
+05/30 02:27:18   swap_memory          True
+05/30 02:27:18   tie_embeddings       False
+05/30 02:27:18   time_pooling         None
+05/30 02:27:18   train                True
+05/30 02:27:18   train_initial_states True
+05/30 02:27:18   train_prefix         'train'
+05/30 02:27:18   truncate_lines       True
+05/30 02:27:18   update_first         False
+05/30 02:27:18   use_baseline         False
+05/30 02:27:18   use_dropout          True
+05/30 02:27:18   use_lstm             True
+05/30 02:27:18   use_lstm_full_state  False
+05/30 02:27:18   use_previous_word    True
+05/30 02:27:18   verbose              True
+05/30 02:27:18   vocab_prefix         'vocab'
+05/30 02:27:18   weight_scale         0.1
+05/30 02:27:18   word_dropout         0.0
+05/30 02:27:18 python random seed: 3885029137554138849
+05/30 02:27:18 tf random seed:     8890571757737497393
+05/30 02:27:18 creating model
+05/30 02:27:18 using device: /gpu:0
+05/30 02:27:18 copying vocab to ../griko_experiments/attentional/pseudo/exp1/model/data/vocab.it
+05/30 02:27:18 copying vocab to ../griko_experiments/attentional/pseudo/exp1/model/data/vocab.gr
+05/30 02:27:18 reading vocabularies
+05/30 02:27:18 creating model
+05/30 02:27:25 model parameters (27)
+05/30 02:27:25   baseline_step:0 ()
+05/30 02:27:25   decoder_gr/attention_it/U_a/kernel:0 (24, 12)
+05/30 02:27:25   decoder_gr/attention_it/W_a/bias:0 (12,)
+05/30 02:27:25   decoder_gr/attention_it/W_a/kernel:0 (12, 12)
+05/30 02:27:25   decoder_gr/attention_it/v_a:0 (12,)
+05/30 02:27:25   decoder_gr/basic_lstm_cell/bias:0 (48,)
+05/30 02:27:25   decoder_gr/basic_lstm_cell/kernel:0 (48, 48)
+05/30 02:27:25   decoder_gr/it/initial_state_projection/bias:0 (24,)
+05/30 02:27:25   decoder_gr/it/initial_state_projection/kernel:0 (12, 24)
+05/30 02:27:25   decoder_gr/maxout/bias:0 (12,)
+05/30 02:27:25   decoder_gr/maxout/kernel:0 (48, 12)
+05/30 02:27:25   decoder_gr/softmax1/bias:0 (43,)
+05/30 02:27:25   decoder_gr/softmax1/kernel:0 (6, 43)
+05/30 02:27:25   embedding_gr:0 (43, 12)
+05/30 02:27:25   embedding_it:0 (444, 12)
+05/30 02:27:25   encoder_it/initial_state_bw:0 (24,)
+05/30 02:27:25   encoder_it/initial_state_fw:0 (24,)
+05/30 02:27:25   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/bias:0 (48,)
+05/30 02:27:25   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/kernel:0 (24, 48)
+05/30 02:27:25   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/bias:0 (48,)
+05/30 02:27:25   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/kernel:0 (24, 48)
+05/30 02:27:25   global_step:0 ()
+05/30 02:27:25   initial_state_keep_prob:0 ()
+05/30 02:27:25   initial_state_keep_prob_1:0 ()
+05/30 02:27:25   learning_rate:0 ()
+05/30 02:27:25   rnn_input_keep_prob:0 ()
+05/30 02:27:25   rnn_input_keep_prob_1:0 ()
+05/30 02:27:25 number of parameters: 0.01M
+05/30 02:27:28 global step: 0
+05/30 02:27:28 baseline step: 0
+05/30 02:27:28 reading training data
+05/30 02:27:28 total line count: 297
+05/30 02:27:28 files: ../griko_experiments/attentional/pseudo/files/train.it ../griko_experiments/attentional/pseudo/files/train.gr
+05/30 02:27:28 lines reads: 297
+05/30 02:27:28 reading development data
+05/30 02:27:28 files: ../griko_experiments/attentional/pseudo/files/dev.it ../griko_experiments/attentional/pseudo/files/dev.gr
+05/30 02:27:28 lines reads: 33
+05/30 02:27:28 files: ../griko_experiments/attentional/pseudo/files/train.it ../griko_experiments/attentional/pseudo/files/train.gr
+05/30 02:27:28 lines reads: 297
+05/30 02:27:28 starting training
+05/30 02:33:39 label: griko best setup 1
+05/30 02:33:39 description:
+  temp = 1
+05/30 02:33:39 /home/getalp/zanonbom/seq2seq/translate/__main__.py ../griko_experiments/attentional/pseudo/exp1/config.yaml --train -v
+05/30 02:33:39 commit hash d7914bbb0f1dc22438de0e15b82ebec43e0614ff
+05/30 02:33:39 tensorflow version: 1.2.0-rc1
+05/30 02:33:39 program arguments
+05/30 02:33:39   aggregation_method   'concat'
+05/30 02:33:39   align_encoder_id     0
+05/30 02:33:39   allow_growth         True
+05/30 02:33:39   attention_type       'global'
+05/30 02:33:39   attn_filter_length   0
+05/30 02:33:39   attn_filters         0
+05/30 02:33:39   attn_prev_word       False
+05/30 02:33:39   attn_size            12
+05/30 02:33:39   attn_temperature     1
+05/30 02:33:39   attn_window_size     0
+05/30 02:33:39   average              False
+05/30 02:33:39   baseline_activation  None
+05/30 02:33:39   baseline_learning_rate 0.001
+05/30 02:33:39   baseline_optimizer   'adam'
+05/30 02:33:39   baseline_steps       0
+05/30 02:33:39   batch_mode           'standard'
+05/30 02:33:39   batch_size           32
+05/30 02:33:39   beam_size            1
+05/30 02:33:39   bidir                True
+05/30 02:33:39   bidir_projection     False
+05/30 02:33:39   binary               False
+05/30 02:33:39   cell_size            12
+05/30 02:33:39   cell_type            'LSTM'
+05/30 02:33:39   character_level      False
+05/30 02:33:39   checkpoints          []
+05/30 02:33:39   conditional_rnn      False
+05/30 02:33:39   config               '../griko_experiments/attentional/pseudo/exp1/config.yaml'
+05/30 02:33:39   convolutions         None
+05/30 02:33:39   data_dir             '../griko_experiments/attentional/pseudo/files/'
+05/30 02:33:39   debug                False
+05/30 02:33:39   decay_after_n_epoch  0
+05/30 02:33:39   decay_every_n_epoch  None
+05/30 02:33:39   decay_if_no_progress None
+05/30 02:33:39   decoders             [{'name': 'ph'}]
+05/30 02:33:39   description          'temp = 1'
+05/30 02:33:39   dev_prefix           ['dev', 'train']
+05/30 02:33:39   embedding_dropout    0.0
+05/30 02:33:39   embedding_initializer None
+05/30 02:33:39   embedding_size       12
+05/30 02:33:39   embedding_weight_scale None
+05/30 02:33:39   encoders             [{'name': 'it'}]
+05/30 02:33:39   ensemble             False
+05/30 02:33:39   eval_burn_in         0
+05/30 02:33:39   feed_previous        0.0
+05/30 02:33:39   final_state          'last'
+05/30 02:33:39   freeze_variables     []
+05/30 02:33:39   generate_first       True
+05/30 02:33:39   gpu_id               0
+05/30 02:33:39   highway_layers       0
+05/30 02:33:39   initial_state_dropout 0.5
+05/30 02:33:39   initializer          None
+05/30 02:33:39   input_layer_dropout  0.0
+05/30 02:33:39   input_layers         None
+05/30 02:33:39   keep_best            4
+05/30 02:33:39   keep_every_n_hours   0
+05/30 02:33:39   label                'griko best setup 1'
+05/30 02:33:39   layer_norm           False
+05/30 02:33:39   layers               1
+05/30 02:33:39   learning_rate        0.001
+05/30 02:33:39   learning_rate_decay_factor 1.0
+05/30 02:33:39   len_normalization    1.0
+05/30 02:33:39   log_file             'log_griko.txt'
+05/30 02:33:39   loss_function        'xent'
+05/30 02:33:39   max_dev_size         0
+05/30 02:33:39   max_epochs           0
+05/30 02:33:39   max_gradient_norm    5.0
+05/30 02:33:39   max_len              128
+05/30 02:33:39   max_steps            150000
+05/30 02:33:39   max_test_size        0
+05/30 02:33:39   max_to_keep          1
+05/30 02:33:39   max_train_size       0
+05/30 02:33:39   maxout_stride        None
+05/30 02:33:39   mem_fraction         1.0
+05/30 02:33:39   min_learning_rate    1e-06
+05/30 02:33:39   model_dir            '../griko_experiments/attentional/pseudo/exp1/model/'
+05/30 02:33:39   moving_average       None
+05/30 02:33:39   no_gpu               False
+05/30 02:33:39   optimizer            'adam'
+05/30 02:33:39   orthogonal_init      False
+05/30 02:33:39   output               None
+05/30 02:33:39   output_dropout       0.0
+05/30 02:33:39   parallel_iterations  16
+05/30 02:33:39   pervasive_dropout    False
+05/30 02:33:39   pooling_avg          True
+05/30 02:33:39   post_process_script  None
+05/30 02:33:39   pred_deep_layer      False
+05/30 02:33:39   pred_edits           False
+05/30 02:33:39   pred_embed_proj      False
+05/30 02:33:39   pred_maxout_layer    True
+05/30 02:33:39   purge                False
+05/30 02:33:39   raw_output           False
+05/30 02:33:39   read_ahead           10
+05/30 02:33:39   reconstruction_attn_weight 0.05
+05/30 02:33:39   reconstruction_decoders False
+05/30 02:33:39   reconstruction_weight 1.0
+05/30 02:33:39   reinforce_after_n_epoch None
+05/30 02:33:39   remove_unk           False
+05/30 02:33:39   reverse              False
+05/30 02:33:39   reverse_input        False
+05/30 02:33:39   reward_function      'sentence_bleu'
+05/30 02:33:39   rnn_feed_attn        True
+05/30 02:33:39   rnn_input_dropout    0.5
+05/30 02:33:39   rnn_output_dropout   0.0
+05/30 02:33:39   rnn_state_dropout    0.0
+05/30 02:33:39   save                 False
+05/30 02:33:39   score_function       'corpus_bleu'
+05/30 02:33:39   score_functions      ['bleu', 'loss']
+05/30 02:33:39   script_dir           'scripts'
+05/30 02:33:39   sgd_after_n_epoch    None
+05/30 02:33:39   sgd_learning_rate    1.0
+05/30 02:33:39   shuffle              True
+05/30 02:33:39   softmax_temperature  1.0
+05/30 02:33:39   steps_per_checkpoint 10000
+05/30 02:33:39   steps_per_eval       10000
+05/30 02:33:39   swap_memory          True
+05/30 02:33:39   tie_embeddings       False
+05/30 02:33:39   time_pooling         None
+05/30 02:33:39   train                True
+05/30 02:33:39   train_initial_states True
+05/30 02:33:39   train_prefix         'train'
+05/30 02:33:39   truncate_lines       True
+05/30 02:33:39   update_first         False
+05/30 02:33:39   use_baseline         False
+05/30 02:33:39   use_dropout          True
+05/30 02:33:39   use_lstm             True
+05/30 02:33:39   use_lstm_full_state  False
+05/30 02:33:39   use_previous_word    True
+05/30 02:33:39   verbose              True
+05/30 02:33:39   vocab_prefix         'vocab'
+05/30 02:33:39   weight_scale         0.1
+05/30 02:33:39   word_dropout         0.0
+05/30 02:33:39 python random seed: 9020772021826283886
+05/30 02:33:39 tf random seed:     7849278295570419018
+05/30 02:33:39 creating model
+05/30 02:33:39 using device: /gpu:0
+05/30 02:33:40 copying vocab to ../griko_experiments/attentional/pseudo/exp1/model/data/vocab.ph
+05/30 02:33:40 reading vocabularies
+05/30 02:33:40 creating model
+05/30 02:33:47 model parameters (27)
+05/30 02:33:47   baseline_step:0 ()
+05/30 02:33:47   decoder_ph/attention_it/U_a/kernel:0 (24, 12)
+05/30 02:33:47   decoder_ph/attention_it/W_a/bias:0 (12,)
+05/30 02:33:47   decoder_ph/attention_it/W_a/kernel:0 (12, 12)
+05/30 02:33:47   decoder_ph/attention_it/v_a:0 (12,)
+05/30 02:33:47   decoder_ph/basic_lstm_cell/bias:0 (48,)
+05/30 02:33:47   decoder_ph/basic_lstm_cell/kernel:0 (48, 48)
+05/30 02:33:47   decoder_ph/it/initial_state_projection/bias:0 (24,)
+05/30 02:33:47   decoder_ph/it/initial_state_projection/kernel:0 (12, 24)
+05/30 02:33:47   decoder_ph/maxout/bias:0 (12,)
+05/30 02:33:47   decoder_ph/maxout/kernel:0 (48, 12)
+05/30 02:33:47   decoder_ph/softmax1/bias:0 (56,)
+05/30 02:33:47   decoder_ph/softmax1/kernel:0 (6, 56)
+05/30 02:33:47   embedding_it:0 (444, 12)
+05/30 02:33:47   embedding_ph:0 (56, 12)
+05/30 02:33:47   encoder_it/initial_state_bw:0 (24,)
+05/30 02:33:47   encoder_it/initial_state_fw:0 (24,)
+05/30 02:33:47   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/bias:0 (48,)
+05/30 02:33:47   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/kernel:0 (24, 48)
+05/30 02:33:47   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/bias:0 (48,)
+05/30 02:33:47   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/kernel:0 (24, 48)
+05/30 02:33:47   global_step:0 ()
+05/30 02:33:47   initial_state_keep_prob:0 ()
+05/30 02:33:47   initial_state_keep_prob_1:0 ()
+05/30 02:33:47   learning_rate:0 ()
+05/30 02:33:47   rnn_input_keep_prob:0 ()
+05/30 02:33:47   rnn_input_keep_prob_1:0 ()
+05/30 02:33:47 number of parameters: 0.01M
+05/30 02:33:50 global step: 0
+05/30 02:33:50 baseline step: 0
+05/30 02:33:50 reading training data
+05/30 02:33:50 total line count: 297
+05/30 02:33:50 files: ../griko_experiments/attentional/pseudo/files/train.it ../griko_experiments/attentional/pseudo/files/train.ph
+05/30 02:33:50 lines reads: 297
+05/30 02:33:50 reading development data
+05/30 02:33:50 files: ../griko_experiments/attentional/pseudo/files/dev.it ../griko_experiments/attentional/pseudo/files/dev.ph
+05/30 02:33:50 lines reads: 33
+05/30 02:33:50 files: ../griko_experiments/attentional/pseudo/files/train.it ../griko_experiments/attentional/pseudo/files/train.ph
+05/30 02:33:50 lines reads: 297
+05/30 02:33:50 starting training
+05/30 02:53:34 step 10000 epoch 1078 learning rate 0.001 step-time 0.117 loss 69.755
+05/30 02:53:34 starting evaluation
+05/30 02:53:34 dev bleu=9.10 loss=66.05 penalty=0.843 ratio=0.854
+05/30 02:53:38 train bleu=10.97 loss=56.44 penalty=1.000 ratio=1.072
+05/30 02:53:38 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 02:53:38 finished saving model
+05/30 02:53:38 new best model
+05/30 03:13:23 step 20000 epoch 2155 learning rate 0.001 step-time 0.117 loss 65.309
+05/30 03:13:23 starting evaluation
+05/30 03:13:24 dev bleu=7.31 loss=70.55 penalty=1.000 ratio=1.125
+05/30 03:13:27 train bleu=13.15 loss=53.31 penalty=1.000 ratio=1.094
+05/30 03:13:27 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 03:13:27 finished saving model
+05/30 03:33:09 step 30000 epoch 3233 learning rate 0.001 step-time 0.117 loss 63.484
+05/30 03:33:09 starting evaluation
+05/30 03:33:10 dev bleu=7.27 loss=72.59 penalty=1.000 ratio=1.080
+05/30 03:33:13 train bleu=13.57 loss=51.42 penalty=1.000 ratio=1.082
+05/30 03:33:13 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 03:33:14 finished saving model
+05/30 03:52:57 step 40000 epoch 4310 learning rate 0.001 step-time 0.117 loss 62.313
+05/30 03:52:57 starting evaluation
+05/30 03:52:57 dev bleu=8.50 loss=73.52 penalty=1.000 ratio=1.065
+05/30 03:53:01 train bleu=13.23 loss=50.23 penalty=1.000 ratio=1.149
+05/30 03:53:01 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 03:53:01 finished saving model
+05/30 04:12:45 step 50000 epoch 5388 learning rate 0.001 step-time 0.117 loss 61.554
+05/30 04:12:46 starting evaluation
+05/30 04:12:47 dev bleu=8.90 loss=75.23 penalty=0.920 ratio=0.923
+05/30 04:12:50 train bleu=15.54 loss=49.48 penalty=1.000 ratio=1.034
+05/30 04:12:50 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 04:12:50 finished saving model
+05/30 04:32:34 step 60000 epoch 6465 learning rate 0.001 step-time 0.117 loss 61.001
+05/30 04:32:34 starting evaluation
+05/30 04:32:34 dev bleu=8.87 loss=77.08 penalty=1.000 ratio=1.128
+05/30 04:32:38 train bleu=14.94 loss=48.86 penalty=1.000 ratio=1.074
+05/30 04:32:38 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 04:32:38 finished saving model
+05/30 04:52:22 step 70000 epoch 7543 learning rate 0.001 step-time 0.117 loss 60.590
+05/30 04:52:22 starting evaluation
+05/30 04:52:23 dev bleu=6.08 loss=77.94 penalty=1.000 ratio=1.302
+05/30 04:52:27 train bleu=13.56 loss=48.43 penalty=1.000 ratio=1.148
+05/30 04:52:27 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 04:52:27 finished saving model
+05/30 05:12:10 step 80000 epoch 8620 learning rate 0.001 step-time 0.117 loss 60.284
+05/30 05:12:10 starting evaluation
+05/30 05:12:10 dev bleu=7.69 loss=78.38 penalty=1.000 ratio=1.250
+05/30 05:12:14 train bleu=14.58 loss=48.16 penalty=1.000 ratio=1.107
+05/30 05:12:14 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 05:12:14 finished saving model
+05/30 05:31:57 step 90000 epoch 9697 learning rate 0.001 step-time 0.117 loss 59.979
+05/30 05:31:57 starting evaluation
+05/30 05:31:58 dev bleu=7.78 loss=79.33 penalty=1.000 ratio=1.360
+05/30 05:32:01 train bleu=13.56 loss=47.84 penalty=1.000 ratio=1.207
+05/30 05:32:01 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 05:32:02 finished saving model
+05/30 05:51:46 step 100000 epoch 10775 learning rate 0.001 step-time 0.117 loss 59.702
+05/30 05:51:46 starting evaluation
+05/30 05:51:47 dev bleu=6.54 loss=79.90 penalty=1.000 ratio=1.404
+05/30 05:51:50 train bleu=15.48 loss=47.47 penalty=1.000 ratio=1.061
+05/30 05:51:50 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 05:51:50 finished saving model
+05/30 06:11:35 step 110000 epoch 11852 learning rate 0.001 step-time 0.117 loss 59.445
+05/30 06:11:36 starting evaluation
+05/30 06:11:36 dev bleu=7.48 loss=79.09 penalty=1.000 ratio=1.390
+05/30 06:11:40 train bleu=14.58 loss=47.39 penalty=1.000 ratio=1.151
+05/30 06:11:40 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 06:11:40 finished saving model
+05/30 06:31:20 step 120000 epoch 12930 learning rate 0.001 step-time 0.117 loss 59.211
+05/30 06:31:20 starting evaluation
+05/30 06:31:20 dev bleu=8.10 loss=80.10 penalty=1.000 ratio=1.277
+05/30 06:31:24 train bleu=15.00 loss=47.19 penalty=1.000 ratio=1.108
+05/30 06:31:24 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 06:31:24 finished saving model
+05/30 06:51:07 step 130000 epoch 14007 learning rate 0.001 step-time 0.117 loss 58.987
+05/30 06:51:07 starting evaluation
+05/30 06:51:07 dev bleu=7.39 loss=80.43 penalty=1.000 ratio=1.283
+05/30 06:51:11 train bleu=14.67 loss=46.95 penalty=1.000 ratio=1.159
+05/30 06:51:11 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 06:51:12 finished saving model
+05/30 07:10:55 step 140000 epoch 15085 learning rate 0.001 step-time 0.117 loss 58.779
+05/30 07:10:55 starting evaluation
+05/30 07:10:55 dev bleu=8.36 loss=81.86 penalty=1.000 ratio=1.070
+05/30 07:10:59 train bleu=14.46 loss=46.75 penalty=1.000 ratio=1.170
+05/30 07:10:59 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 07:10:59 finished saving model
+05/30 07:30:42 step 150000 epoch 16162 learning rate 0.001 step-time 0.117 loss 58.568
+05/30 07:30:42 starting evaluation
+05/30 07:30:42 dev bleu=6.69 loss=82.29 penalty=1.000 ratio=1.384
+05/30 07:30:46 train bleu=15.48 loss=46.59 penalty=1.000 ratio=1.115
+05/30 07:30:46 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 07:30:46 finished saving model
+05/30 07:30:46 finished training
+05/30 07:30:46 exiting...
+05/30 07:30:46 saving model to ../griko_experiments/attentional/pseudo/exp1/model/checkpoints
+05/30 07:30:46 finished saving model
