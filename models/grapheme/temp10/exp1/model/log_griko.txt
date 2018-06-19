@@ -185,3 +185,103 @@
 06/18 21:55:37 files: ../SLTU_griko/models/grapheme/files/train.it ../SLTU_griko/models/grapheme/files/train.gr
 06/18 21:55:37 lines reads: 297
 06/18 21:55:38 starting training
+06/18 22:24:18 step 10000 epoch 1078 learning rate 0.001 step-time 0.170 loss 83.006
+06/18 22:24:18 starting evaluation
+06/18 22:24:20 dev bleu=10.92 loss=75.50 penalty=0.849 ratio=0.860
+06/18 22:24:24 train bleu=11.06 loss=61.69 penalty=1.000 ratio=1.082
+06/18 22:24:24 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/18 22:24:24 finished saving model
+06/18 22:24:24 new best model
+06/18 22:53:07 step 20000 epoch 2155 learning rate 0.001 step-time 0.171 loss 72.219
+06/18 22:53:07 starting evaluation
+06/18 22:53:08 dev bleu=11.98 loss=73.09 penalty=0.967 ratio=0.968
+06/18 22:53:12 train bleu=15.47 loss=54.24 penalty=1.000 ratio=1.046
+06/18 22:53:12 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/18 22:53:12 finished saving model
+06/18 22:53:12 new best model
+06/18 23:21:53 step 30000 epoch 3233 learning rate 0.001 step-time 0.170 loss 67.730
+06/18 23:21:53 starting evaluation
+06/18 23:21:53 dev bleu=13.24 loss=73.56 penalty=0.910 ratio=0.914
+06/18 23:21:57 train bleu=17.13 loss=50.71 penalty=0.990 ratio=0.990
+06/18 23:21:57 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/18 23:21:57 finished saving model
+06/18 23:21:57 new best model
+06/18 23:50:37 step 40000 epoch 4310 learning rate 0.001 step-time 0.170 loss 65.616
+06/18 23:50:37 starting evaluation
+06/18 23:50:38 dev bleu=15.25 loss=73.70 penalty=0.940 ratio=0.942
+06/18 23:50:42 train bleu=18.80 loss=48.58 penalty=1.000 ratio=1.011
+06/18 23:50:42 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/18 23:50:42 finished saving model
+06/18 23:50:42 new best model
+06/19 00:19:20 step 50000 epoch 5388 learning rate 0.001 step-time 0.170 loss 64.079
+06/19 00:19:20 starting evaluation
+06/19 00:19:21 dev bleu=15.73 loss=75.24 penalty=0.914 ratio=0.917
+06/19 00:19:25 train bleu=20.22 loss=46.68 penalty=0.988 ratio=0.988
+06/19 00:19:25 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 00:19:25 finished saving model
+06/19 00:19:25 new best model
+06/19 00:48:05 step 60000 epoch 6465 learning rate 0.001 step-time 0.170 loss 62.529
+06/19 00:48:05 starting evaluation
+06/19 00:48:06 dev bleu=15.65 loss=76.81 penalty=0.878 ratio=0.885
+06/19 00:48:10 train bleu=20.43 loss=45.25 penalty=1.000 ratio=1.035
+06/19 00:48:10 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 00:48:10 finished saving model
+06/19 01:16:46 step 70000 epoch 7543 learning rate 0.001 step-time 0.170 loss 61.261
+06/19 01:16:46 starting evaluation
+06/19 01:16:46 dev bleu=14.49 loss=78.42 penalty=0.955 ratio=0.956
+06/19 01:16:50 train bleu=20.85 loss=44.61 penalty=1.000 ratio=1.063
+06/19 01:16:50 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 01:16:50 finished saving model
+06/19 01:45:35 step 80000 epoch 8620 learning rate 0.001 step-time 0.171 loss 60.310
+06/19 01:45:35 starting evaluation
+06/19 01:45:36 dev bleu=15.33 loss=79.03 penalty=0.956 ratio=0.957
+06/19 01:45:40 train bleu=21.41 loss=43.93 penalty=1.000 ratio=1.086
+06/19 01:45:40 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 01:45:40 finished saving model
+06/19 02:14:28 step 90000 epoch 9697 learning rate 0.001 step-time 0.171 loss 59.590
+06/19 02:14:28 starting evaluation
+06/19 02:14:28 dev bleu=14.20 loss=80.26 penalty=1.000 ratio=1.004
+06/19 02:14:33 train bleu=23.29 loss=43.17 penalty=1.000 ratio=1.038
+06/19 02:14:33 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 02:14:33 finished saving model
+06/19 02:43:29 step 100000 epoch 10775 learning rate 0.001 step-time 0.172 loss 58.986
+06/19 02:43:29 starting evaluation
+06/19 02:43:29 dev bleu=14.82 loss=80.33 penalty=1.000 ratio=1.028
+06/19 02:43:33 train bleu=22.70 loss=42.70 penalty=1.000 ratio=1.041
+06/19 02:43:33 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 02:43:33 finished saving model
+06/19 03:12:28 step 110000 epoch 11852 learning rate 0.001 step-time 0.172 loss 58.534
+06/19 03:12:28 starting evaluation
+06/19 03:12:29 dev bleu=15.72 loss=80.72 penalty=1.000 ratio=1.018
+06/19 03:12:33 train bleu=21.41 loss=42.87 penalty=1.000 ratio=1.057
+06/19 03:12:33 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 03:12:33 finished saving model
+06/19 03:41:32 step 120000 epoch 12930 learning rate 0.001 step-time 0.172 loss 58.170
+06/19 03:41:32 starting evaluation
+06/19 03:41:33 dev bleu=14.95 loss=80.88 penalty=1.000 ratio=1.038
+06/19 03:41:37 train bleu=22.31 loss=42.55 penalty=1.000 ratio=1.047
+06/19 03:41:37 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 03:41:37 finished saving model
+06/19 04:10:32 step 130000 epoch 14007 learning rate 0.001 step-time 0.172 loss 57.908
+06/19 04:10:32 starting evaluation
+06/19 04:10:33 dev bleu=14.91 loss=81.81 penalty=0.987 ratio=0.987
+06/19 04:10:37 train bleu=22.26 loss=42.62 penalty=1.000 ratio=1.084
+06/19 04:10:37 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 04:10:37 finished saving model
+06/19 04:39:30 step 140000 epoch 15085 learning rate 0.001 step-time 0.171 loss 57.680
+06/19 04:39:30 starting evaluation
+06/19 04:39:30 dev bleu=15.82 loss=83.13 penalty=1.000 ratio=1.014
+06/19 04:39:34 train bleu=24.34 loss=42.18 penalty=1.000 ratio=1.006
+06/19 04:39:34 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 04:39:34 finished saving model
+06/19 04:39:34 new best model
+06/19 05:08:21 step 150000 epoch 16162 learning rate 0.001 step-time 0.171 loss 57.424
+06/19 05:08:21 starting evaluation
+06/19 05:08:21 dev bleu=15.29 loss=83.27 penalty=1.000 ratio=1.016
+06/19 05:08:26 train bleu=22.81 loss=42.43 penalty=1.000 ratio=1.068
+06/19 05:08:26 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 05:08:26 finished saving model
+06/19 05:08:26 finished training
+06/19 05:08:26 exiting...
+06/19 05:08:26 saving model to ../SLTU_griko/models/grapheme/temp10/exp1/model/checkpoints
+06/19 05:08:26 finished saving model
