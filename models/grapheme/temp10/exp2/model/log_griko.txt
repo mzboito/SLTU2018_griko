@@ -1,0 +1,187 @@
+06/18 21:55:33 label: griko best setup 1
+06/18 21:55:33 description:
+  temp = 10
+06/18 21:55:33 /home/mzboito/Documents/seq2seq/translate/__main__.py ../SLTU_griko/models/grapheme/temp10/exp2/config_grapheme.yaml --train -v
+06/18 21:55:33 commit hash fa2755653a5ec0abf6bb38ed222ffa0cca4115c8
+06/18 21:55:33 tensorflow version: 1.8.0
+06/18 21:55:33 program arguments
+06/18 21:55:33   aggregation_method   'concat'
+06/18 21:55:33   align_encoder_id     0
+06/18 21:55:33   allow_growth         True
+06/18 21:55:33   attention_type       'global'
+06/18 21:55:33   attn_filter_length   0
+06/18 21:55:33   attn_filters         0
+06/18 21:55:33   attn_prev_word       False
+06/18 21:55:33   attn_size            12
+06/18 21:55:33   attn_temperature     10
+06/18 21:55:33   attn_window_size     0
+06/18 21:55:33   average              False
+06/18 21:55:33   baseline_activation  None
+06/18 21:55:33   baseline_learning_rate 0.001
+06/18 21:55:33   baseline_optimizer   'adam'
+06/18 21:55:33   baseline_steps       0
+06/18 21:55:33   batch_mode           'standard'
+06/18 21:55:33   batch_size           32
+06/18 21:55:33   beam_size            1
+06/18 21:55:33   bidir                True
+06/18 21:55:33   bidir_projection     False
+06/18 21:55:33   binary               False
+06/18 21:55:33   cell_size            12
+06/18 21:55:33   cell_type            'LSTM'
+06/18 21:55:33   character_level      False
+06/18 21:55:33   checkpoints          []
+06/18 21:55:33   conditional_rnn      False
+06/18 21:55:33   config               '../SLTU_griko/models/grapheme/temp10/exp2/config_grapheme.yaml'
+06/18 21:55:33   convolutions         None
+06/18 21:55:33   data_dir             '../SLTU_griko/models/grapheme/files/'
+06/18 21:55:33   debug                False
+06/18 21:55:33   decay_after_n_epoch  0
+06/18 21:55:33   decay_every_n_epoch  None
+06/18 21:55:33   decay_if_no_progress None
+06/18 21:55:33   decoders             [{'name': 'gr'}]
+06/18 21:55:33   description          'temp = 10'
+06/18 21:55:33   dev_prefix           ['dev', 'train']
+06/18 21:55:33   embedding_dropout    0.0
+06/18 21:55:33   embedding_initializer None
+06/18 21:55:33   embedding_size       12
+06/18 21:55:33   embedding_weight_scale None
+06/18 21:55:33   encoders             [{'name': 'it'}]
+06/18 21:55:33   ensemble             False
+06/18 21:55:33   eval_burn_in         0
+06/18 21:55:33   feed_previous        0.0
+06/18 21:55:33   final_state          'last'
+06/18 21:55:33   freeze_variables     []
+06/18 21:55:33   generate_first       True
+06/18 21:55:33   gpu_id               0
+06/18 21:55:33   highway_layers       0
+06/18 21:55:33   initial_state_dropout 0.5
+06/18 21:55:33   initializer          None
+06/18 21:55:33   input_layer_dropout  0.0
+06/18 21:55:33   input_layers         None
+06/18 21:55:33   keep_best            4
+06/18 21:55:33   keep_every_n_hours   0
+06/18 21:55:33   label                'griko best setup 1'
+06/18 21:55:33   layer_norm           False
+06/18 21:55:33   layers               1
+06/18 21:55:33   learning_rate        0.001
+06/18 21:55:33   learning_rate_decay_factor 1.0
+06/18 21:55:33   len_normalization    1.0
+06/18 21:55:33   log_file             'log_griko.txt'
+06/18 21:55:33   loss_function        'xent'
+06/18 21:55:33   max_dev_size         0
+06/18 21:55:33   max_epochs           0
+06/18 21:55:33   max_gradient_norm    5.0
+06/18 21:55:33   max_len              128
+06/18 21:55:33   max_steps            150000
+06/18 21:55:33   max_test_size        0
+06/18 21:55:33   max_to_keep          1
+06/18 21:55:33   max_train_size       0
+06/18 21:55:33   maxout_stride        None
+06/18 21:55:33   mem_fraction         1.0
+06/18 21:55:33   min_learning_rate    1e-06
+06/18 21:55:33   model_dir            '../SLTU_griko/models/grapheme/temp10/exp2/model/'
+06/18 21:55:33   moving_average       None
+06/18 21:55:33   no_gpu               False
+06/18 21:55:33   optimizer            'adam'
+06/18 21:55:33   orthogonal_init      False
+06/18 21:55:33   output               None
+06/18 21:55:33   output_dropout       0.0
+06/18 21:55:33   parallel_iterations  16
+06/18 21:55:33   pervasive_dropout    False
+06/18 21:55:33   pooling_avg          True
+06/18 21:55:33   post_process_script  None
+06/18 21:55:33   pred_deep_layer      False
+06/18 21:55:33   pred_edits           False
+06/18 21:55:33   pred_embed_proj      False
+06/18 21:55:33   pred_maxout_layer    True
+06/18 21:55:33   purge                False
+06/18 21:55:33   raw_output           False
+06/18 21:55:33   read_ahead           10
+06/18 21:55:33   reconstruction_attn_weight 0.05
+06/18 21:55:33   reconstruction_decoders False
+06/18 21:55:33   reconstruction_weight 1.0
+06/18 21:55:33   reinforce_after_n_epoch None
+06/18 21:55:33   remove_unk           False
+06/18 21:55:33   reverse              False
+06/18 21:55:33   reverse_input        False
+06/18 21:55:33   reward_function      'sentence_bleu'
+06/18 21:55:33   rnn_feed_attn        True
+06/18 21:55:33   rnn_input_dropout    0.5
+06/18 21:55:33   rnn_output_dropout   0.0
+06/18 21:55:33   rnn_state_dropout    0.0
+06/18 21:55:33   save                 False
+06/18 21:55:33   score_function       'corpus_bleu'
+06/18 21:55:33   score_functions      ['bleu', 'loss']
+06/18 21:55:33   script_dir           'scripts'
+06/18 21:55:33   sgd_after_n_epoch    None
+06/18 21:55:33   sgd_learning_rate    1.0
+06/18 21:55:33   shuffle              True
+06/18 21:55:33   softmax_temperature  1.0
+06/18 21:55:33   steps_per_checkpoint 10000
+06/18 21:55:33   steps_per_eval       10000
+06/18 21:55:33   swap_memory          True
+06/18 21:55:33   tie_embeddings       False
+06/18 21:55:33   time_pooling         None
+06/18 21:55:33   train                True
+06/18 21:55:33   train_initial_states True
+06/18 21:55:33   train_prefix         'train'
+06/18 21:55:33   truncate_lines       True
+06/18 21:55:33   update_first         False
+06/18 21:55:33   use_baseline         False
+06/18 21:55:33   use_dropout          True
+06/18 21:55:33   use_lstm             True
+06/18 21:55:33   use_lstm_full_state  False
+06/18 21:55:33   use_previous_word    True
+06/18 21:55:33   verbose              True
+06/18 21:55:33   vocab_prefix         'vocab'
+06/18 21:55:33   weight_scale         0.1
+06/18 21:55:33   word_dropout         0.0
+06/18 21:55:33 python random seed: 8307925514138878720
+06/18 21:55:33 tf random seed:     6744490917338076807
+06/18 21:55:33 creating model
+06/18 21:55:33 using device: /gpu:0
+06/18 21:55:34 copying vocab to ../SLTU_griko/models/grapheme/temp10/exp2/model/data/vocab.it
+06/18 21:55:34 copying vocab to ../SLTU_griko/models/grapheme/temp10/exp2/model/data/vocab.gr
+06/18 21:55:34 reading vocabularies
+06/18 21:55:34 creating model
+06/18 21:55:43 model parameters (27)
+06/18 21:55:43   baseline_step:0 ()
+06/18 21:55:43   decoder_gr/attention_it/U_a/kernel:0 (24, 12)
+06/18 21:55:43   decoder_gr/attention_it/W_a/bias:0 (12,)
+06/18 21:55:43   decoder_gr/attention_it/W_a/kernel:0 (12, 12)
+06/18 21:55:43   decoder_gr/attention_it/v_a:0 (12,)
+06/18 21:55:43   decoder_gr/basic_lstm_cell/bias:0 (48,)
+06/18 21:55:43   decoder_gr/basic_lstm_cell/kernel:0 (48, 48)
+06/18 21:55:43   decoder_gr/it/initial_state_projection/bias:0 (24,)
+06/18 21:55:43   decoder_gr/it/initial_state_projection/kernel:0 (12, 24)
+06/18 21:55:43   decoder_gr/maxout/bias:0 (12,)
+06/18 21:55:43   decoder_gr/maxout/kernel:0 (48, 12)
+06/18 21:55:43   decoder_gr/softmax1/bias:0 (43,)
+06/18 21:55:43   decoder_gr/softmax1/kernel:0 (6, 43)
+06/18 21:55:43   embedding_gr:0 (43, 12)
+06/18 21:55:43   embedding_it:0 (439, 12)
+06/18 21:55:43   encoder_it/initial_state_bw:0 (24,)
+06/18 21:55:43   encoder_it/initial_state_fw:0 (24,)
+06/18 21:55:43   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/bias:0 (48,)
+06/18 21:55:43   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/kernel:0 (24, 48)
+06/18 21:55:43   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/bias:0 (48,)
+06/18 21:55:43   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/kernel:0 (24, 48)
+06/18 21:55:43   global_step:0 ()
+06/18 21:55:43   initial_state_keep_prob:0 ()
+06/18 21:55:43   initial_state_keep_prob_1:0 ()
+06/18 21:55:43   learning_rate:0 ()
+06/18 21:55:43   rnn_input_keep_prob:0 ()
+06/18 21:55:43   rnn_input_keep_prob_1:0 ()
+06/18 21:55:43 number of parameters: 0.01M
+06/18 21:55:43 global step: 0
+06/18 21:55:43 baseline step: 0
+06/18 21:55:43 reading training data
+06/18 21:55:43 total line count: 297
+06/18 21:55:43 files: ../SLTU_griko/models/grapheme/files/train.it ../SLTU_griko/models/grapheme/files/train.gr
+06/18 21:55:43 lines reads: 297
+06/18 21:55:43 reading development data
+06/18 21:55:43 files: ../SLTU_griko/models/grapheme/files/dev.it ../SLTU_griko/models/grapheme/files/dev.gr
+06/18 21:55:43 lines reads: 33
+06/18 21:55:44 files: ../SLTU_griko/models/grapheme/files/train.it ../SLTU_griko/models/grapheme/files/train.gr
+06/18 21:55:44 lines reads: 297
+06/18 21:55:44 starting training
