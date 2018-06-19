@@ -18,7 +18,7 @@ max_len: 128
 batch_size: 32
 
 data_dir: ../griko_experiments/attentional/pseudo/files/
-model_dir: ../griko_experiments/attentional/pseudo/exp1/model/
+model_dir: ../griko_experiments/attentional/pseudo/temp1/exp1/model/
 log_file: log_griko.txt 
 
 train_prefix: train

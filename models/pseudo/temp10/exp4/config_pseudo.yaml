@@ -1,0 +1,36 @@
+label: "griko best setup 1"
+description: "temp = 1"
+
+use_dropout: True
+rnn_input_dropout: 0.5
+initial_state_dropout: 0.5
+cell_size: 12
+attn_size: 12
+embedding_size: 12
+bidir: True
+layers: 1
+use_lstm: True
+steps_per_checkpoint: 10000
+steps_per_eval: 10000
+max_steps: 150000
+optimizer: adam  
+max_len: 128
+batch_size: 32
+
+data_dir: ../SLTU_griko/models/pseudo/files/
+model_dir: ../SLTU_griko/models/pseudo/temp10/exp4/model/
+log_file: log_griko.txt 
+
+train_prefix: train
+dev_prefix: [dev, train]
+vocab_prefix: vocab
+
+attention_type: global
+attn_temperature: 10
+score_function: corpus_bleu
+
+encoders:
+  - name: it
+
+decoders:
+  - name: ph

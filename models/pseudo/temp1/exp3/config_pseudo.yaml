@@ -18,7 +18,7 @@ max_len: 128
 batch_size: 32
 
 data_dir: ../SLTU_experiments/pseudo/files/
-model_dir: ../SLTU_experiments/pseudo/exp3/model/
+model_dir: ../SLTU_experiments/pseudo/temp1/exp3/model/
 log_file: log_griko.txt 
 
 train_prefix: train
