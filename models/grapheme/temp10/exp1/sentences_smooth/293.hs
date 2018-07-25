@@ -1,0 +1,1 @@
+stot ìcho tèlioj elì

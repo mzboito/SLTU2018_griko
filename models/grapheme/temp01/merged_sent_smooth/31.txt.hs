@@ -1,0 +1,1 @@
+stè ikasim mènisto nghiardìno 

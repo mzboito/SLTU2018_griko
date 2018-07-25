@@ -1,0 +1,1 @@
+ìchanavoràso tsomìku àimèri 

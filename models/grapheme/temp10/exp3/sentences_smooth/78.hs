@@ -1,0 +1,1 @@
+nami tusmìnom e

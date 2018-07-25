@@ -1,0 +1,1 @@
+e netsèro ti gràfi 

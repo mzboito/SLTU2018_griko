@@ -1,0 +1,1 @@
+na mit us mìnome

@@ -1,0 +1,1 @@
+pà oce rkèontaènafùrnokakàn nirùstiku

@@ -1,0 +1,1 @@
+stip àsta tèl iàla

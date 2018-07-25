@@ -1,0 +1,1 @@
+èna f ùrnokaikànnitsom ìkalò

@@ -1,0 +1,2 @@
+	num_tokens	vocab_size	avg_word_length	avg_tokens_per_sentence	shortest_word	longest_word
+griko.dpseg.clean	2629	567	4.36684303351	7.96666666667	1	11

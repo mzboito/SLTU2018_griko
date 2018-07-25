@@ -1,0 +1,1 @@
+èch oti kà i

@@ -1,0 +1,1 @@
+ankòr aen endì simo

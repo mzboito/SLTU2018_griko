@@ -1,0 +1,1 @@
+e glàs tiec òppa 

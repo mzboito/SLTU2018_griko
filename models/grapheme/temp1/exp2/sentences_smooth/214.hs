@@ -1,0 +1,1 @@
+imarè tsatolal àch ana

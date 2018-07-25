@@ -1,0 +1,1 @@
+e m ì dec i d è t s am o k a s ì m m e r i ì c h a m o n a p à m e s t i s p i à gg i a m o n a d e r f ò m u p e ròc ì n o ì t s e r e k a k à n n i f i à kk a c e e n ìr t e m a m a e c ì k a e t àl a s sae p i ac e i d ò p u è t s i c h r ò 

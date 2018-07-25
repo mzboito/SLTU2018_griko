@@ -1,0 +1,1 @@
+onìku sak aèrkato

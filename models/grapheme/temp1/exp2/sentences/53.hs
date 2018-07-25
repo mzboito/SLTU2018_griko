@@ -1,0 +1,1 @@
+em ì d e cidè t s am o k a s ì m m e r i ìc h a mon a pà m e s t i s p i à g g i a m o n a d e r f ò m u p e r ò c ì n o ì ts e r e k a k à nn i f i à k k a c e e n ì rte m a m a e c ì kaet à las s ae p i ac e id ò p u ètsic h rò

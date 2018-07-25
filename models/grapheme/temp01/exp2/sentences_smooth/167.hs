@@ -1,0 +1,1 @@
+en etsè rot igràfi 

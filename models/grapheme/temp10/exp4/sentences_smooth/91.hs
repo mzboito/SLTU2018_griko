@@ -1,0 +1,1 @@
+kuài mè ringhìzinavoràsome otsomì

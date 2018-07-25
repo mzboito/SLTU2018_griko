@@ -1,0 +1,1 @@
+em ìde cidètsa m o k a s ìmmer iìc h amon a p à me s tis pi à g gi am o n a d e r fò m u p e r ò c ì n o ì t s e r e k a k à n ni f i à k k a c e e n ì r t e m a m a e c ìk a e t à l a s sa e p i a c e i d ò p u è t si c hrò 

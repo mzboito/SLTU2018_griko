@@ -1,0 +1,1 @@
+mbìk ea pòttu

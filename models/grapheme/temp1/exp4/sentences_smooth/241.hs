@@ -1,0 +1,1 @@
+ègla s amiabuttìg lia

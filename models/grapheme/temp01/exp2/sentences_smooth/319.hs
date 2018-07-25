@@ -1,0 +1,1 @@
+to nìkusak aìrt e

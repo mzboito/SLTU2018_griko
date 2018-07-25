@@ -1,0 +1,1 @@
+emì decidè t s a m o ka sì m me riìchamo n a p à m e s t i s p i à g g ia m o na d e rf ò m u p e r ò c ì n o ì t s e r e k a k à n n if i à k k a c een ì r t em a m ae c ì k a e t à l a s s ae p i a c e i d ò p u è ts i c h rò

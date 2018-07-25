@@ -1,0 +1,1 @@
+ste ceplò nni stogràtti 

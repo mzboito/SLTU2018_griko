@@ -1,0 +1,1 @@
+siipàstaìchetelìsontaà latoìchavàlonta

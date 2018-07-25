@@ -1,0 +1,1 @@
+èn am bìkea pòttu

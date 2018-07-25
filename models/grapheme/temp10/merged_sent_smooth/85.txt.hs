@@ -1,0 +1,1 @@
+mìm emìn ien èrkome 

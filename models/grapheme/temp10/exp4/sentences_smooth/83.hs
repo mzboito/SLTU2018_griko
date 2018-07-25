@@ -1,0 +1,1 @@
+àrtekacìnienèrkottep l è o

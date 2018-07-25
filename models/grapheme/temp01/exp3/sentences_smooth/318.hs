@@ -1,0 +1,1 @@
+tonìkusam òtte è rkato

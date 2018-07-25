@@ -1,0 +1,1 @@
+en etsèr oti gràfi

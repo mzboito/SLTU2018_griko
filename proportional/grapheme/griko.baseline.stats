@@ -1,0 +1,2 @@
+	num_tokens	vocab_size	avg_word_length	avg_tokens_per_sentence	shortest_word	longest_word
+griko.baseline	2370	1715	4.49912536443	7.18181818182	1	29

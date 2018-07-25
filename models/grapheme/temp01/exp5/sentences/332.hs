@@ -1,1 +1,1 @@
-M arìk a è n arma s tì àv v ri
+M arìk a è n arma s tì àv v ri 

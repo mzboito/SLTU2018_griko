@@ -1,1 +1,1 @@
-m ì memìnekaen è r k u m e
+m ì memìnekaen è r k u m e 

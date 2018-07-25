@@ -1,0 +1,1 @@
+ton ìku samòtte èrkato 

@@ -1,0 +1,1 @@
+ìselana vr ìkoafùrnokakanniunrùsti kokalù

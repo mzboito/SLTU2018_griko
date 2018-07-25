@@ -1,0 +1,1 @@
+ìch anaafor àsototsomì

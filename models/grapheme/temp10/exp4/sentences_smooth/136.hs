@@ -1,0 +1,1 @@
+tospìtitofabbrikèoneifabbrika t òri 

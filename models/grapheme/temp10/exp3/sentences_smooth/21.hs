@@ -1,0 +1,1 @@
+ik iatèramui tèli napài

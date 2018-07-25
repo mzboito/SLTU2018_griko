@@ -1,0 +1,1 @@
+ìmes tammèna pànta techùddhi 

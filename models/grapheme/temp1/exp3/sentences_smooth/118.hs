@@ -1,0 +1,1 @@
+isòzo neìn eankòra atsùnniti 

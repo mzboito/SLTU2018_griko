@@ -1,0 +1,1 @@
+ìm estammèn apànt atechùddhi 

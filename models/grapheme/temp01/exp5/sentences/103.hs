@@ -1,1 +1,1 @@
-ì soz e èmb i
+ì soz e èmb i 

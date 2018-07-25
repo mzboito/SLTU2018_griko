@@ -1,1 +1,1 @@
-è na g u ì ka ne
+è na g u ì ka ne 

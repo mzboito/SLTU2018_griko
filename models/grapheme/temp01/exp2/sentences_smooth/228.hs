@@ -1,0 +1,1 @@
+ìm estammèn apàntat echùddhi 

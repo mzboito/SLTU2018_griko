@@ -1,0 +1,1 @@
+kai pulìt so mìkalò

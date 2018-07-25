@@ -1,1 +1,1 @@
-ì seg i àf amèna
+ì seg i àf amèna 

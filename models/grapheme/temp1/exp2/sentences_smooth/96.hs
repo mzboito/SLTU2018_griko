@@ -1,0 +1,1 @@
+ìchanavorà so tso mìkuàimèri 

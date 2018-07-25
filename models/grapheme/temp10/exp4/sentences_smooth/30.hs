@@ -1,0 +1,1 @@
+stekammènistogiardìnost oc ì po

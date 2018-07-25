@@ -1,0 +1,1 @@
+allòrae v òàrtena stestudièotsemaèstramaèchomia ad erfìaderfìmmustudièifètopòrketejamèdiko

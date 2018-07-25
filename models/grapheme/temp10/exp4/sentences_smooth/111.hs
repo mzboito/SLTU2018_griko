@@ -1,0 +1,1 @@
+ènamb ìke apòttu

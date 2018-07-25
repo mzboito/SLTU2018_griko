@@ -1,0 +1,1 @@
+ìcha naaf oràsotot somì

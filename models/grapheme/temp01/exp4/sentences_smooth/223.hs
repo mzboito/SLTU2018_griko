@@ -1,0 +1,1 @@
+mubri s tì odàttilo

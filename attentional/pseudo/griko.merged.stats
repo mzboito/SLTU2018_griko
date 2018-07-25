@@ -1,0 +1,2 @@
+	num_tokens	vocab_size	avg_word_length	avg_tokens_per_sentence	shortest_word	longest_word
+griko.merged	1676	967	20.7414684592	5.07878787879	2	123

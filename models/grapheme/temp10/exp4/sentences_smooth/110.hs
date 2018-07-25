@@ -1,0 +1,1 @@
+isoggè stekambìke apòttu

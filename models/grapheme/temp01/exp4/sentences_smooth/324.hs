@@ -1,0 +1,1 @@
+tos pìcce tsaatsè kàmi

@@ -1,1 +1,1 @@
-f òr s ie gg u ìka n e
+f òr s ie gg u ìka n e 

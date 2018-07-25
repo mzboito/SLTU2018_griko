@@ -1,0 +1,1 @@
+ìchan aafor àsoto tsomì

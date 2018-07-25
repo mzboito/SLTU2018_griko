@@ -1,0 +1,1 @@
+prìmanapàistis k òla

@@ -1,0 +1,1 @@
+mindèla àllesèttekavòenìme prònta

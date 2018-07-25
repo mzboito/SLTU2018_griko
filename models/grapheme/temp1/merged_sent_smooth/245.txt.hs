@@ -1,0 +1,1 @@
+èrku ttendimèn a

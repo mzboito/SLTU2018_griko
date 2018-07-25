@@ -1,0 +1,1 @@
+isò zone ìnea nkòraatsùnniti

@@ -1,0 +1,1 @@
+sti pàsta tèl iàla 

@@ -1,0 +1,1 @@
+sti pàstat èl iàla 

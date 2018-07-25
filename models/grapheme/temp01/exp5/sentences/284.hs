@@ -1,1 +1,1 @@
-i pàs t a t è l i àl a
+i pàs t a t è l i àl a 

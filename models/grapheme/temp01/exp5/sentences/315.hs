@@ -1,1 +1,1 @@
-o nìkus an a r t i
+o nìkus an a r t i 

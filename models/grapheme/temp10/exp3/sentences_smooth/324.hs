@@ -1,0 +1,1 @@
+tosp ìccets aatsè kàmi 

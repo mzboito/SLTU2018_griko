@@ -1,0 +1,1 @@
+osòzospicc ètsiàtsegràtsi

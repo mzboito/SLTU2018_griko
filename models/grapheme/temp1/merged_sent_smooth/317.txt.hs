@@ -1,0 +1,1 @@
+ton ìku sana rti

@@ -1,0 +1,1 @@
+s tea nkòramarèo nta

@@ -1,0 +1,1 @@
+prìma napà istisk òla

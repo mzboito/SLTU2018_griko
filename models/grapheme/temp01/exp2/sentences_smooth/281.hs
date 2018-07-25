@@ -1,0 +1,1 @@
+stipàs ta tèli àla 

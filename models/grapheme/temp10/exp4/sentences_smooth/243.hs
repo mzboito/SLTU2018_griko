@@ -1,0 +1,1 @@
+eglàst i ecòppa

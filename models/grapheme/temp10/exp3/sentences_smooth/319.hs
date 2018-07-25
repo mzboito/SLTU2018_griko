@@ -1,0 +1,1 @@
+tonì ku sak aìrte

@@ -1,0 +1,1 @@
+ka ipu lìtsom ìkalò 

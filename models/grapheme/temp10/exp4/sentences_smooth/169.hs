@@ -1,0 +1,1 @@
+sìmmerie vò enèchotik àmi

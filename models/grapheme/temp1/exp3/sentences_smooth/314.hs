@@ -1,0 +1,1 @@
+onìku s aka èrkato

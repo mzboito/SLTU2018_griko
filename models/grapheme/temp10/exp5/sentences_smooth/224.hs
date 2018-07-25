@@ -1,0 +1,1 @@
+mu prìsti t odàttilo

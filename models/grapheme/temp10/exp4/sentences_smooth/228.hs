@@ -1,0 +1,1 @@
+ìm e stamm ènapàntatechùddhi

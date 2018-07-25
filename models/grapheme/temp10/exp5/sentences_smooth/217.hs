@@ -1,0 +1,1 @@
+ankò ra ene ndìsimo

@@ -1,0 +1,1 @@
+takoràsiatèlonek anoni mmèn a

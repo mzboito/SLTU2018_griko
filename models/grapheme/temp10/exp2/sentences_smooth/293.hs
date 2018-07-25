@@ -1,0 +1,1 @@
+stotìch otèli ojel ì

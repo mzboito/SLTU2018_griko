@@ -1,0 +1,1 @@
+ip àsta tèli àla 

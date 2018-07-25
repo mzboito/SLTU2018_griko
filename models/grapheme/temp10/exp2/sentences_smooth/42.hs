@@ -1,0 +1,1 @@
+ste ankòram arèont a

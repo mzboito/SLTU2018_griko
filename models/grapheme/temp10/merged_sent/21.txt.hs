@@ -1,0 +1,1 @@
+ikia tèramu itèli napài 

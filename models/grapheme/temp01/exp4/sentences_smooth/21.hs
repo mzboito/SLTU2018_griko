@@ -1,0 +1,1 @@
+i kiatèramui tèli napài

@@ -1,0 +1,1 @@
+spìccetsa àts egràtsi

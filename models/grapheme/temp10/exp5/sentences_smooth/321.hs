@@ -1,0 +1,1 @@
+tako ràsia tèlonekanoni mmèna

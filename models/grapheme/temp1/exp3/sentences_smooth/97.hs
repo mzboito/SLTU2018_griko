@@ -1,0 +1,1 @@
+ìchanavoràso otsomìk uà imèri

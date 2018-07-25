@@ -1,0 +1,1 @@
+to nìku sana rti 

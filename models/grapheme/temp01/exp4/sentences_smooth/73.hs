@@ -1,0 +1,1 @@
+pr ìman apàisti skòla

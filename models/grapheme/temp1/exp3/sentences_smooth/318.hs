@@ -1,0 +1,1 @@
+tonìk usamòtte èrkato

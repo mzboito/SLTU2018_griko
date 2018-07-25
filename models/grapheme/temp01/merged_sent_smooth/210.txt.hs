@@ -1,0 +1,1 @@
+ìsest amaràt a

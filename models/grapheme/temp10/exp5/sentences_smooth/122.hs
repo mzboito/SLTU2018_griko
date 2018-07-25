@@ -1,0 +1,1 @@
+pis tèoka stèo neankòraatsùnniti

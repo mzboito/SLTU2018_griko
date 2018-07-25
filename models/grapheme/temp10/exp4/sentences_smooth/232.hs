@@ -1,0 +1,1 @@
+ìsotraùdiìrtegrammènotè s seruchrònua mpì 

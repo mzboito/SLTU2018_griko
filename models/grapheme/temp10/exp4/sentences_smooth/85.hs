@@ -1,0 +1,1 @@
+m ìmemìnienèr kome

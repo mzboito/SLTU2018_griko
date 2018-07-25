@@ -1,0 +1,1 @@
+emì d e cidèt s a mok a s ìmme r i ì c ha mo na p à m e s t i s pi à g g i a m o n a d e r f ò m u p e r ò c ì n o ì t s e rek a k àn n i f i à k ka c e e n ìrt em a m a e c ì k a e t àl a s s a e p i a c e i d ò p u è t s i c hrò 

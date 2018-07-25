@@ -1,0 +1,1 @@
+tèli àspr o

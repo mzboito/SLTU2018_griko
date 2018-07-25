@@ -1,0 +1,1 @@
+ìtelaènabarmènafùrnonakànik alòrùstiku

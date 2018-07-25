@@ -1,0 +1,1 @@
+èrkutt e nd imèna

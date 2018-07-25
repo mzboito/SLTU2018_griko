@@ -1,0 +1,1 @@
+kai pulìts omìkal ò 

@@ -1,0 +1,1 @@
+ettèdecidètsamokasìmmeripàmestispiàgg ia

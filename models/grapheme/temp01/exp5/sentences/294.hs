@@ -1,1 +1,1 @@
-o t ìch o tèliè n anja l ì
+o t ìch o tèliè n anja l ì 

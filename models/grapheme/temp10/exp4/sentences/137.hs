@@ -1,0 +1,1 @@
+èrketef abbr i kàto

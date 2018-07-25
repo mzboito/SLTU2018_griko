@@ -1,0 +1,1 @@
+o pesammèn otèlig lammèno 

@@ -1,0 +1,1 @@
+tos òzo spiccètsi tsèkàmi

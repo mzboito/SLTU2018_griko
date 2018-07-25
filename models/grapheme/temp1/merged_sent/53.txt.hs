@@ -1,0 +1,1 @@
+em ìdec idètsa m o kasì mmer iìchamo napà me stispià ggi a m o n a de r f ò mup e r ò cìno ì t s e r e k a k à n n i f i à k kac e e nì r t em a m a e cì k a e tà l a s s a e pi a c e i d òp u èt s i ch rò 

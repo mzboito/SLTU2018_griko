@@ -1,0 +1,1 @@
+k aip ulìtso mìkalò

@@ -1,0 +1,1 @@
+emì d e c i d ètsa mok a sì mmeri ì c h am on a p à m e s t i s p i à g g i a m o n a d e r f ò m u p e r ò c ì n o ì t s e r e k a k à n n i f i à kk a c e e n ìr t em a m a e c ì k a e tàla s s ae pi a c e i d ò pu è tsi c h r ò 
