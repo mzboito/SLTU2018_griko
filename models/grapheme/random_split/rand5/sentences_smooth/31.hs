@@ -1,0 +1,1 @@
+stè ikasi mmèni stonghiardìno

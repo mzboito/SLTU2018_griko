@@ -1,0 +1,1 @@
+tak oràsia tèloneka nonimmèna

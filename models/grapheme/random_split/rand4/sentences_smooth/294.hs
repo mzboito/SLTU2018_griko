@@ -1,0 +1,1 @@
+ot ìchot èlièna njalì

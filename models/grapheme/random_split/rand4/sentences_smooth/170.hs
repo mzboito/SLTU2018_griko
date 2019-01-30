@@ -1,0 +1,1 @@
+e nìche t ikàmi 

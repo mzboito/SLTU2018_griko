@@ -1,0 +1,1 @@
+tusindì nn oneige nitòri 

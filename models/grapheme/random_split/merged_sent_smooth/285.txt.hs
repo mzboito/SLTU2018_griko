@@ -1,0 +1,1 @@
+ipà sta ìtel eàla

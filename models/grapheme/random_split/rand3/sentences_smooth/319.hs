@@ -1,0 +1,1 @@
+ton ìk usaka ìrte

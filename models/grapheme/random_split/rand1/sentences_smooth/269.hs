@@ -1,0 +1,1 @@
+etèlik lamm èno

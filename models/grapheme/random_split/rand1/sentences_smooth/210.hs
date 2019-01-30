@@ -1,0 +1,1 @@
+ìse s tamar àta

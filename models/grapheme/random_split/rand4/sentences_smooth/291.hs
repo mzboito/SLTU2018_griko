@@ -1,0 +1,1 @@
+cìt totìcho tèliè nanjalì

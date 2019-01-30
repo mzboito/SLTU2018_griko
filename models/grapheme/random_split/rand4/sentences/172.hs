@@ -1,0 +1,1 @@
+è chot ikà i 

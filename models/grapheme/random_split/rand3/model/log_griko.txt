@@ -1,0 +1,290 @@
+08/02 21:35:02 label: griko best setup 1
+08/02 21:35:02 description:
+  temp = 1
+08/02 21:35:02 /home/getalp/zanonbom/seq2seq/translate/__main__.py ../SLTU_griko/models/grapheme/random_split/rand3/config_grapheme.yaml --train -v
+08/02 21:35:02 commit hash d7914bbb0f1dc22438de0e15b82ebec43e0614ff
+08/02 21:35:02 tensorflow version: 1.8.0
+08/02 21:35:02 program arguments
+08/02 21:35:02   aggregation_method   'concat'
+08/02 21:35:02   align_encoder_id     0
+08/02 21:35:02   allow_growth         True
+08/02 21:35:02   attention_type       'global'
+08/02 21:35:02   attn_filter_length   0
+08/02 21:35:02   attn_filters         0
+08/02 21:35:02   attn_prev_word       False
+08/02 21:35:02   attn_size            12
+08/02 21:35:02   attn_temperature     1
+08/02 21:35:02   attn_window_size     0
+08/02 21:35:02   average              False
+08/02 21:35:02   baseline_activation  None
+08/02 21:35:02   baseline_learning_rate 0.001
+08/02 21:35:02   baseline_optimizer   'adam'
+08/02 21:35:02   baseline_steps       0
+08/02 21:35:02   batch_mode           'standard'
+08/02 21:35:02   batch_size           32
+08/02 21:35:02   beam_size            1
+08/02 21:35:02   bidir                True
+08/02 21:35:02   bidir_projection     False
+08/02 21:35:02   binary               False
+08/02 21:35:02   cell_size            12
+08/02 21:35:02   cell_type            'LSTM'
+08/02 21:35:02   character_level      False
+08/02 21:35:02   checkpoints          []
+08/02 21:35:02   conditional_rnn      False
+08/02 21:35:02   config               '../SLTU_griko/models/grapheme/random_split/rand3/config_grapheme.yaml'
+08/02 21:35:02   convolutions         None
+08/02 21:35:02   data_dir             '../SLTU_griko/models/grapheme/random_split/files/'
+08/02 21:35:02   debug                False
+08/02 21:35:02   decay_after_n_epoch  0
+08/02 21:35:02   decay_every_n_epoch  None
+08/02 21:35:02   decay_if_no_progress None
+08/02 21:35:02   decoders             [{'name': 'gr'}]
+08/02 21:35:02   description          'temp = 1'
+08/02 21:35:02   dev_prefix           ['dev.rand3', 'train.rand3']
+08/02 21:35:02   embedding_dropout    0.0
+08/02 21:35:02   embedding_initializer None
+08/02 21:35:02   embedding_size       12
+08/02 21:35:02   embedding_weight_scale None
+08/02 21:35:02   encoders             [{'name': 'it'}]
+08/02 21:35:02   ensemble             False
+08/02 21:35:02   eval_burn_in         0
+08/02 21:35:02   feed_previous        0.0
+08/02 21:35:02   final_state          'last'
+08/02 21:35:02   freeze_variables     []
+08/02 21:35:02   generate_first       True
+08/02 21:35:02   gpu_id               0
+08/02 21:35:02   highway_layers       0
+08/02 21:35:02   initial_state_dropout 0.5
+08/02 21:35:02   initializer          None
+08/02 21:35:02   input_layer_dropout  0.0
+08/02 21:35:02   input_layers         None
+08/02 21:35:02   keep_best            4
+08/02 21:35:02   keep_every_n_hours   0
+08/02 21:35:02   label                'griko best setup 1'
+08/02 21:35:02   layer_norm           False
+08/02 21:35:02   layers               1
+08/02 21:35:02   learning_rate        0.001
+08/02 21:35:02   learning_rate_decay_factor 1.0
+08/02 21:35:02   len_normalization    1.0
+08/02 21:35:02   log_file             'log_griko.txt'
+08/02 21:35:02   loss_function        'xent'
+08/02 21:35:02   max_dev_size         0
+08/02 21:35:02   max_epochs           0
+08/02 21:35:02   max_gradient_norm    5.0
+08/02 21:35:02   max_len              128
+08/02 21:35:02   max_steps            150000
+08/02 21:35:02   max_test_size        0
+08/02 21:35:02   max_to_keep          1
+08/02 21:35:02   max_train_size       0
+08/02 21:35:02   maxout_stride        None
+08/02 21:35:02   mem_fraction         1.0
+08/02 21:35:02   min_learning_rate    1e-06
+08/02 21:35:02   model_dir            '../SLTU_griko/models/grapheme/random_split/rand3/model/'
+08/02 21:35:02   moving_average       None
+08/02 21:35:02   no_gpu               False
+08/02 21:35:02   optimizer            'adam'
+08/02 21:35:02   orthogonal_init      False
+08/02 21:35:02   output               None
+08/02 21:35:02   output_dropout       0.0
+08/02 21:35:02   parallel_iterations  16
+08/02 21:35:02   pervasive_dropout    False
+08/02 21:35:02   pooling_avg          True
+08/02 21:35:02   post_process_script  None
+08/02 21:35:02   pred_deep_layer      False
+08/02 21:35:02   pred_edits           False
+08/02 21:35:02   pred_embed_proj      False
+08/02 21:35:02   pred_maxout_layer    True
+08/02 21:35:02   purge                False
+08/02 21:35:02   raw_output           False
+08/02 21:35:02   read_ahead           10
+08/02 21:35:02   reconstruction_attn_weight 0.05
+08/02 21:35:02   reconstruction_decoders False
+08/02 21:35:02   reconstruction_weight 1.0
+08/02 21:35:02   reinforce_after_n_epoch None
+08/02 21:35:02   remove_unk           False
+08/02 21:35:02   reverse              False
+08/02 21:35:02   reverse_input        False
+08/02 21:35:02   reward_function      'sentence_bleu'
+08/02 21:35:02   rnn_feed_attn        True
+08/02 21:35:02   rnn_input_dropout    0.5
+08/02 21:35:02   rnn_output_dropout   0.0
+08/02 21:35:02   rnn_state_dropout    0.0
+08/02 21:35:02   save                 False
+08/02 21:35:02   score_function       'corpus_bleu'
+08/02 21:35:02   score_functions      ['bleu', 'loss']
+08/02 21:35:02   script_dir           'scripts'
+08/02 21:35:02   sgd_after_n_epoch    None
+08/02 21:35:02   sgd_learning_rate    1.0
+08/02 21:35:02   shuffle              True
+08/02 21:35:02   softmax_temperature  1.0
+08/02 21:35:02   steps_per_checkpoint 10000
+08/02 21:35:02   steps_per_eval       10000
+08/02 21:35:02   swap_memory          True
+08/02 21:35:02   tie_embeddings       False
+08/02 21:35:02   time_pooling         None
+08/02 21:35:02   train                True
+08/02 21:35:02   train_initial_states True
+08/02 21:35:02   train_prefix         'train.rand3'
+08/02 21:35:02   truncate_lines       True
+08/02 21:35:02   update_first         False
+08/02 21:35:02   use_baseline         False
+08/02 21:35:02   use_dropout          True
+08/02 21:35:02   use_lstm             True
+08/02 21:35:02   use_lstm_full_state  False
+08/02 21:35:02   use_previous_word    True
+08/02 21:35:02   verbose              True
+08/02 21:35:02   vocab_prefix         'vocab.rand3'
+08/02 21:35:02   weight_scale         0.1
+08/02 21:35:02   word_dropout         0.0
+08/02 21:35:02 python random seed: 6650823788933272309
+08/02 21:35:02 tf random seed:     4973623756254326667
+08/02 21:35:02 creating model
+08/02 21:35:02 using device: /gpu:0
+08/02 21:35:02 copying vocab to ../SLTU_griko/models/grapheme/random_split/rand3/model/data/vocab.it
+08/02 21:35:02 copying vocab to ../SLTU_griko/models/grapheme/random_split/rand3/model/data/vocab.gr
+08/02 21:35:02 reading vocabularies
+08/02 21:35:02 creating model
+08/02 21:35:11 model parameters (27)
+08/02 21:35:11   baseline_step:0 ()
+08/02 21:35:11   decoder_gr/attention_it/U_a/kernel:0 (24, 12)
+08/02 21:35:11   decoder_gr/attention_it/W_a/bias:0 (12,)
+08/02 21:35:11   decoder_gr/attention_it/W_a/kernel:0 (12, 12)
+08/02 21:35:11   decoder_gr/attention_it/v_a:0 (12,)
+08/02 21:35:11   decoder_gr/basic_lstm_cell/bias:0 (48,)
+08/02 21:35:11   decoder_gr/basic_lstm_cell/kernel:0 (48, 48)
+08/02 21:35:11   decoder_gr/it/initial_state_projection/bias:0 (24,)
+08/02 21:35:11   decoder_gr/it/initial_state_projection/kernel:0 (12, 24)
+08/02 21:35:11   decoder_gr/maxout/bias:0 (12,)
+08/02 21:35:11   decoder_gr/maxout/kernel:0 (48, 12)
+08/02 21:35:11   decoder_gr/softmax1/bias:0 (44,)
+08/02 21:35:11   decoder_gr/softmax1/kernel:0 (6, 44)
+08/02 21:35:11   embedding_gr:0 (44, 12)
+08/02 21:35:11   embedding_it:0 (445, 12)
+08/02 21:35:11   encoder_it/initial_state_bw:0 (24,)
+08/02 21:35:11   encoder_it/initial_state_fw:0 (24,)
+08/02 21:35:11   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/bias:0 (48,)
+08/02 21:35:11   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/basic_lstm_cell/kernel:0 (24, 48)
+08/02 21:35:11   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/bias:0 (48,)
+08/02 21:35:11   encoder_it/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/basic_lstm_cell/kernel:0 (24, 48)
+08/02 21:35:11   global_step:0 ()
+08/02 21:35:11   initial_state_keep_prob:0 ()
+08/02 21:35:11   initial_state_keep_prob_1:0 ()
+08/02 21:35:11   learning_rate:0 ()
+08/02 21:35:11   rnn_input_keep_prob:0 ()
+08/02 21:35:11   rnn_input_keep_prob_1:0 ()
+08/02 21:35:11 number of parameters: 0.01M
+08/02 21:35:11 global step: 0
+08/02 21:35:11 baseline step: 0
+08/02 21:35:11 reading training data
+08/02 21:35:11 total line count: 297
+08/02 21:35:11 files: ../SLTU_griko/models/grapheme/random_split/files/train.rand3.it ../SLTU_griko/models/grapheme/random_split/files/train.rand3.gr
+08/02 21:35:11 lines reads: 297
+08/02 21:35:11 reading development data
+08/02 21:35:11 files: ../SLTU_griko/models/grapheme/random_split/files/dev.rand3.it ../SLTU_griko/models/grapheme/random_split/files/dev.rand3.gr
+08/02 21:35:11 lines reads: 33
+08/02 21:35:11 files: ../SLTU_griko/models/grapheme/random_split/files/train.rand3.it ../SLTU_griko/models/grapheme/random_split/files/train.rand3.gr
+08/02 21:35:11 lines reads: 297
+08/02 21:35:12 starting training
+08/02 21:54:15 step 10000 epoch 1078 learning rate 0.001 step-time 0.113 loss 84.886
+08/02 21:54:15 starting evaluation
+08/02 21:54:16 dev.rand3 bleu=10.36 loss=72.60 penalty=0.905 ratio=0.909
+08/02 21:54:19 train.rand3 bleu=11.33 loss=62.95 penalty=1.000 ratio=1.047
+08/02 21:54:19 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/02 21:54:20 finished saving model
+08/02 21:54:20 new best model
+08/02 22:13:23 step 20000 epoch 2155 learning rate 0.001 step-time 0.113 loss 74.277
+08/02 22:13:23 starting evaluation
+08/02 22:13:23 dev.rand3 bleu=13.35 loss=70.81 penalty=0.947 ratio=0.949
+08/02 22:13:27 train.rand3 bleu=16.09 loss=55.02 penalty=1.000 ratio=1.086
+08/02 22:13:27 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/02 22:13:27 finished saving model
+08/02 22:13:27 new best model
+08/02 22:32:29 step 30000 epoch 3233 learning rate 0.001 step-time 0.113 loss 69.686
+08/02 22:32:29 starting evaluation
+08/02 22:32:30 dev.rand3 bleu=14.71 loss=72.41 penalty=0.942 ratio=0.943
+08/02 22:32:33 train.rand3 bleu=19.18 loss=51.23 penalty=1.000 ratio=1.029
+08/02 22:32:33 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/02 22:32:33 finished saving model
+08/02 22:32:33 new best model
+08/02 22:51:37 step 40000 epoch 4310 learning rate 0.001 step-time 0.113 loss 67.289
+08/02 22:51:37 starting evaluation
+08/02 22:51:38 dev.rand3 bleu=14.63 loss=72.72 penalty=0.903 ratio=0.908
+08/02 22:51:41 train.rand3 bleu=21.19 loss=49.28 penalty=0.970 ratio=0.970
+08/02 22:51:41 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/02 22:51:41 finished saving model
+08/02 23:10:42 step 50000 epoch 5388 learning rate 0.001 step-time 0.113 loss 65.720
+08/02 23:10:42 starting evaluation
+08/02 23:10:43 dev.rand3 bleu=15.26 loss=72.10 penalty=0.918 ratio=0.921
+08/02 23:10:46 train.rand3 bleu=22.98 loss=47.76 penalty=0.994 ratio=0.994
+08/02 23:10:46 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/02 23:10:46 finished saving model
+08/02 23:10:46 new best model
+08/02 23:29:49 step 60000 epoch 6465 learning rate 0.001 step-time 0.113 loss 64.440
+08/02 23:29:49 starting evaluation
+08/02 23:29:49 dev.rand3 bleu=15.69 loss=71.73 penalty=0.926 ratio=0.929
+08/02 23:29:52 train.rand3 bleu=23.55 loss=46.92 penalty=1.000 ratio=1.039
+08/02 23:29:52 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/02 23:29:52 finished saving model
+08/02 23:29:52 new best model
+08/02 23:48:54 step 70000 epoch 7543 learning rate 0.001 step-time 0.113 loss 63.437
+08/02 23:48:54 starting evaluation
+08/02 23:48:54 dev.rand3 bleu=15.70 loss=72.43 penalty=0.886 ratio=0.892
+08/02 23:48:57 train.rand3 bleu=23.60 loss=46.35 penalty=0.962 ratio=0.962
+08/02 23:48:57 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/02 23:48:57 finished saving model
+08/02 23:48:57 new best model
+08/03 00:08:02 step 80000 epoch 8620 learning rate 0.001 step-time 0.113 loss 62.675
+08/03 00:08:02 starting evaluation
+08/03 00:08:02 dev.rand3 bleu=15.94 loss=72.39 penalty=0.891 ratio=0.896
+08/03 00:08:05 train.rand3 bleu=24.70 loss=45.56 penalty=0.985 ratio=0.985
+08/03 00:08:05 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/03 00:08:05 finished saving model
+08/03 00:08:05 new best model
+08/03 00:27:08 step 90000 epoch 9697 learning rate 0.001 step-time 0.113 loss 62.067
+08/03 00:27:08 starting evaluation
+08/03 00:27:08 dev.rand3 bleu=17.28 loss=72.38 penalty=0.916 ratio=0.919
+08/03 00:27:11 train.rand3 bleu=24.57 loss=45.17 penalty=0.996 ratio=0.996
+08/03 00:27:11 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/03 00:27:11 finished saving model
+08/03 00:27:11 new best model
+08/03 00:46:16 step 100000 epoch 10775 learning rate 0.001 step-time 0.113 loss 61.527
+08/03 00:46:16 starting evaluation
+08/03 00:46:17 dev.rand3 bleu=16.83 loss=71.96 penalty=0.933 ratio=0.935
+08/03 00:46:20 train.rand3 bleu=25.51 loss=44.72 penalty=0.999 ratio=0.999
+08/03 00:46:20 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/03 00:46:20 finished saving model
+08/03 01:05:17 step 110000 epoch 11852 learning rate 0.001 step-time 0.112 loss 61.068
+08/03 01:05:17 starting evaluation
+08/03 01:05:17 dev.rand3 bleu=18.90 loss=71.64 penalty=0.907 ratio=0.911
+08/03 01:05:20 train.rand3 bleu=25.12 loss=44.52 penalty=0.996 ratio=0.996
+08/03 01:05:20 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/03 01:05:20 finished saving model
+08/03 01:05:20 new best model
+08/03 01:24:24 step 120000 epoch 12930 learning rate 0.001 step-time 0.113 loss 60.688
+08/03 01:24:24 starting evaluation
+08/03 01:24:25 dev.rand3 bleu=16.55 loss=70.82 penalty=0.867 ratio=0.875
+08/03 01:24:28 train.rand3 bleu=24.55 loss=44.32 penalty=1.000 ratio=1.017
+08/03 01:24:28 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/03 01:24:28 finished saving model
+08/03 01:43:31 step 130000 epoch 14007 learning rate 0.001 step-time 0.113 loss 60.355
+08/03 01:43:31 starting evaluation
+08/03 01:43:31 dev.rand3 bleu=16.68 loss=71.17 penalty=0.854 ratio=0.864
+08/03 01:43:34 train.rand3 bleu=25.55 loss=44.10 penalty=1.000 ratio=1.005
+08/03 01:43:34 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/03 01:43:34 finished saving model
+08/03 02:02:39 step 140000 epoch 15085 learning rate 0.001 step-time 0.113 loss 60.113
+08/03 02:02:39 starting evaluation
+08/03 02:02:39 dev.rand3 bleu=17.74 loss=71.66 penalty=0.913 ratio=0.916
+08/03 02:02:42 train.rand3 bleu=24.93 loss=43.89 penalty=0.990 ratio=0.990
+08/03 02:02:42 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/03 02:02:43 finished saving model
+08/03 02:21:45 step 150000 epoch 16162 learning rate 0.001 step-time 0.113 loss 59.885
+08/03 02:21:45 starting evaluation
+08/03 02:21:46 dev.rand3 bleu=17.87 loss=71.20 penalty=0.911 ratio=0.915
+08/03 02:21:49 train.rand3 bleu=24.90 loss=43.81 penalty=0.977 ratio=0.977
+08/03 02:21:49 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/03 02:21:49 finished saving model
+08/03 02:21:49 finished training
+08/03 02:21:49 exiting...
+08/03 02:21:49 saving model to ../SLTU_griko/models/grapheme/random_split/rand3/model/checkpoints
+08/03 02:21:49 finished saving model

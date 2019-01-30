@@ -1,0 +1,1 @@
+è choti kà i 

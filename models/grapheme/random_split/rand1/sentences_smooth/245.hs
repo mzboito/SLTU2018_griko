@@ -1,0 +1,1 @@
+èrku ttendim è na 

@@ -1,0 +1,1 @@
+ema rèssato talà chana

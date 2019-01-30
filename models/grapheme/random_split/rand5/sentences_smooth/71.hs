@@ -1,0 +1,1 @@
+e nènaalli mo nistùmestamài

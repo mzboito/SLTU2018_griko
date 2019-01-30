@@ -1,0 +1,1 @@
+ka ipulì tsomìk alò

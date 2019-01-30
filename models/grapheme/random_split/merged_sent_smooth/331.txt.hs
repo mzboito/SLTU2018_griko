@@ -1,0 +1,1 @@
+èna katàr oto nàrburo

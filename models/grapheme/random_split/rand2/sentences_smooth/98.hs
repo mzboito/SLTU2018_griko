@@ -1,0 +1,1 @@
+ìchanavor àsototso mì kàimèri 

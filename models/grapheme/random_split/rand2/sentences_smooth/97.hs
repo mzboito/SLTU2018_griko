@@ -1,0 +1,1 @@
+ìchanavor àsootso mìk uàimèri 

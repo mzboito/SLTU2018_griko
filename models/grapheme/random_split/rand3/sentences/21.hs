@@ -1,0 +1,1 @@
+iki atèramui tèl inapài

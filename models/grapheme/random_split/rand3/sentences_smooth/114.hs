@@ -1,0 +1,1 @@
+fòrsi stèo neankòraa tsùnniti 

@@ -1,0 +1,1 @@
+kai pul ìtsomìkalò 

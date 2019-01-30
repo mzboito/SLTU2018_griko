@@ -1,0 +1,1 @@
+jatìì chep olemìsont apoddhì 

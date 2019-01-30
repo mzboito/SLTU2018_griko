@@ -1,0 +1,1 @@
+nak onsumèts ialì obenzìna 

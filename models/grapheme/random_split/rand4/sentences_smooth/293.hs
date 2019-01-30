@@ -1,0 +1,1 @@
+sto tìcho tèlio jelì 

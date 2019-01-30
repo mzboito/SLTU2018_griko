@@ -1,0 +1,1 @@
+itèlik lamm èn o 

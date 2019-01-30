@@ -1,0 +1,1 @@
+nakon sumèts ialìo benzìna

@@ -1,0 +1,1 @@
+ja tììchep olemìs ontapoddhì

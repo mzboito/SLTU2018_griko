@@ -1,0 +1,1 @@
+ipàs ta tèli àla

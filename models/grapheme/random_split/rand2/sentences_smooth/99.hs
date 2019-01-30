@@ -1,0 +1,1 @@
+ìchanaagor àsoosso mì kamèri

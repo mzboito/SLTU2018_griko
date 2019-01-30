@@ -1,0 +1,1 @@
+ìmes tammè napàntat echùddhi

@@ -1,0 +1,1 @@
+ìsose èmbi àttif inèstra

@@ -1,0 +1,1 @@
+prì mana pàist iskòla 

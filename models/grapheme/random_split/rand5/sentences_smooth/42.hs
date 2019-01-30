@@ -1,0 +1,1 @@
+stea nkòram arèonta

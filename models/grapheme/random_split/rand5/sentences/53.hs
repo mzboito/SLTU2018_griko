@@ -1,0 +1,1 @@
+emìd ecidèts a m okas ìmmeri ìc ha m o nap à mes t is pi àg g i am o n a d e r f ò m u p e r ò cìno ì t s e r e k a k à n ni f i à k k a c e e nì r t e m a m a e c ìk a e t à l a s s a e p iaceidòpu è t si c hr ò 

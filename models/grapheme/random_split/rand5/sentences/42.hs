@@ -1,0 +1,1 @@
+stea n kòram arèonta

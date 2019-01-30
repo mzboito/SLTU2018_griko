@@ -1,0 +1,1 @@
+ìo nepodd hìstrà kko

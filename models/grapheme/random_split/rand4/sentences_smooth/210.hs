@@ -1,0 +1,1 @@
+ìse stama r àta 

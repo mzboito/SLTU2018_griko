@@ -1,0 +1,1 @@
+emìde cidè tsamo k asìmm e ri ì cha mon a pà m e s t is p i à g gi a m o n a d e rf ò mu p er ò c ì n o ì t s e r e k a k à n n i f i à k k a c e e nìrt e m a m a e cì k a e tàla s s a e p i a ce i dòpu èt s i c h r ò 

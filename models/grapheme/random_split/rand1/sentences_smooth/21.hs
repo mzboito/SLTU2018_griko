@@ -1,0 +1,1 @@
+ikia tèram uitèli napài 

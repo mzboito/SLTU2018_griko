@@ -1,0 +1,1 @@
+to spìccetsa at sèkàmi 

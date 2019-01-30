@@ -1,0 +1,1 @@
+ìme stammèn apànta techùddhi 

@@ -1,0 +1,1 @@
+cìnie nèrkot teetu smènometròme

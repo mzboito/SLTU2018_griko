@@ -1,0 +1,1 @@
+to nìku sak aìrte 

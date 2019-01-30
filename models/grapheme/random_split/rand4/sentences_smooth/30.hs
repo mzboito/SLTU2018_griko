@@ -1,0 +1,1 @@
+ste kammèni stogiar dìnostocìpo 

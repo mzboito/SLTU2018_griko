@@ -1,0 +1,1 @@
+na konsumètsi alìob enzìna 

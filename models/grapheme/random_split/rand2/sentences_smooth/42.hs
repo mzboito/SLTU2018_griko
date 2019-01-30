@@ -1,0 +1,1 @@
+ste an kò ramarèonta 

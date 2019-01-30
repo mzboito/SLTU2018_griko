@@ -1,0 +1,1 @@
+iki atèra muitèl inapài 

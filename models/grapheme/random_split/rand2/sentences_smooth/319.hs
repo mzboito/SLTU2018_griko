@@ -1,0 +1,1 @@
+to nìkus akaìrte 

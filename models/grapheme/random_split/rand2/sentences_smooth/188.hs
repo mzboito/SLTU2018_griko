@@ -1,0 +1,1 @@
+nakon sumètsi alìobenzìn a
